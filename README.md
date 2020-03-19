@@ -1,4 +1,4 @@
-# Dataset for Traveling salesman problem of the distance of each combination of brazilian states capitals
+# Dataset for the traveling salesman problem of the brazilian states capitals distance combinations
 
 `states.csv` and `states.json` both contains the output of `python3 main.py`
 
