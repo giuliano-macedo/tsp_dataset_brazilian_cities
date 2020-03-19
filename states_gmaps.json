@@ -1,0 +1,3282 @@
+{
+    "nodes": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Minas Gerais",
+        "Rio Grande do Sul",
+        "Pernambuco",
+        "Ceará",
+        "Bahia",
+        "Paraná",
+        "Pará",
+        "Goiás",
+        "Amazonas",
+        "Espírito Santo",
+        "Alagoas",
+        "Rio Grande do Norte",
+        "Maranhão",
+        "Santa Catarina",
+        "Paraíba",
+        "Piauí",
+        "Mato Grosso",
+        "Mato Grosso do Sul",
+        "Sergipe",
+        "Amapá",
+        "Rondônia",
+        "Acre",
+        "Tocantins",
+        "Roraima"
+    ],
+    "edges": [
+        [
+            "São Paulo",
+            "Rio de Janeiro",
+            434394
+        ],
+        [
+            "São Paulo",
+            "Minas Gerais",
+            591068
+        ],
+        [
+            "São Paulo",
+            "Rio Grande do Sul",
+            1135135
+        ],
+        [
+            "São Paulo",
+            "Pernambuco",
+            2696840
+        ],
+        [
+            "São Paulo",
+            "Ceará",
+            3089984
+        ],
+        [
+            "São Paulo",
+            "Bahia",
+            2027872
+        ],
+        [
+            "São Paulo",
+            "Paraná",
+            414738
+        ],
+        [
+            "São Paulo",
+            "Pará",
+            2903398
+        ],
+        [
+            "São Paulo",
+            "Goiás",
+            898426
+        ],
+        [
+            "São Paulo",
+            "Amazonas",
+            3873378
+        ],
+        [
+            "São Paulo",
+            "Espírito Santo",
+            943063
+        ],
+        [
+            "São Paulo",
+            "Alagoas",
+            2479781
+        ],
+        [
+            "São Paulo",
+            "Rio Grande do Norte",
+            2989651
+        ],
+        [
+            "São Paulo",
+            "Maranhão",
+            2994916
+        ],
+        [
+            "São Paulo",
+            "Santa Catarina",
+            695461
+        ],
+        [
+            "São Paulo",
+            "Paraíba",
+            2821456
+        ],
+        [
+            "São Paulo",
+            "Piauí",
+            2652282
+        ],
+        [
+            "São Paulo",
+            "Mato Grosso",
+            1525607
+        ],
+        [
+            "São Paulo",
+            "Mato Grosso do Sul",
+            992362
+        ],
+        [
+            "São Paulo",
+            "Sergipe",
+            2222865
+        ],
+        [
+            "São Paulo",
+            "Amapá",
+            NaN
+        ],
+        [
+            "São Paulo",
+            "Rondônia",
+            2985865
+        ],
+        [
+            "São Paulo",
+            "Acre",
+            NaN
+        ],
+        [
+            "São Paulo",
+            "Tocantins",
+            1812075
+        ],
+        [
+            "São Paulo",
+            "Roraima",
+            4621177
+        ],
+        [
+            "Rio de Janeiro",
+            "São Paulo",
+            432204
+        ],
+        [
+            "Rio de Janeiro",
+            "Minas Gerais",
+            441388
+        ],
+        [
+            "Rio de Janeiro",
+            "Rio Grande do Sul",
+            1568370
+        ],
+        [
+            "Rio de Janeiro",
+            "Pernambuco",
+            2300806
+        ],
+        [
+            "Rio de Janeiro",
+            "Ceará",
+            2586958
+        ],
+        [
+            "Rio de Janeiro",
+            "Bahia",
+            1631839
+        ],
+        [
+            "Rio de Janeiro",
+            "Paraná",
+            847974
+        ],
+        [
+            "Rio de Janeiro",
+            "Pará",
+            3203717
+        ],
+        [
+            "Rio de Janeiro",
+            "Goiás",
+            1297651
+        ],
+        [
+            "Rio de Janeiro",
+            "Amazonas",
+            4272603
+        ],
+        [
+            "Rio de Janeiro",
+            "Espírito Santo",
+            522467
+        ],
+        [
+            "Rio de Janeiro",
+            "Alagoas",
+            2083748
+        ],
+        [
+            "Rio de Janeiro",
+            "Rio Grande do Norte",
+            2593617
+        ],
+        [
+            "Rio de Janeiro",
+            "Maranhão",
+            2930901
+        ],
+        [
+            "Rio de Janeiro",
+            "Santa Catarina",
+            1128697
+        ],
+        [
+            "Rio de Janeiro",
+            "Paraíba",
+            2425423
+        ],
+        [
+            "Rio de Janeiro",
+            "Piauí",
+            2588267
+        ],
+        [
+            "Rio de Janeiro",
+            "Mato Grosso",
+            1924832
+        ],
+        [
+            "Rio de Janeiro",
+            "Mato Grosso do Sul",
+            1416651
+        ],
+        [
+            "Rio de Janeiro",
+            "Sergipe",
+            1826831
+        ],
+        [
+            "Rio de Janeiro",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Rio de Janeiro",
+            "Rondônia",
+            3385090
+        ],
+        [
+            "Rio de Janeiro",
+            "Acre",
+            NaN
+        ],
+        [
+            "Rio de Janeiro",
+            "Tocantins",
+            1985219
+        ],
+        [
+            "Rio de Janeiro",
+            "Roraima",
+            5020402
+        ],
+        [
+            "Minas Gerais",
+            "São Paulo",
+            585937
+        ],
+        [
+            "Minas Gerais",
+            "Rio de Janeiro",
+            440984
+        ],
+        [
+            "Minas Gerais",
+            "Rio Grande do Sul",
+            1721955
+        ],
+        [
+            "Minas Gerais",
+            "Pernambuco",
+            2136626
+        ],
+        [
+            "Minas Gerais",
+            "Ceará",
+            2422778
+        ],
+        [
+            "Minas Gerais",
+            "Bahia",
+            1467659
+        ],
+        [
+            "Minas Gerais",
+            "Paraná",
+            1001558
+        ],
+        [
+            "Minas Gerais",
+            "Pará",
+            2772567
+        ],
+        [
+            "Minas Gerais",
+            "Goiás",
+            874594
+        ],
+        [
+            "Minas Gerais",
+            "Amazonas",
+            3920763
+        ],
+        [
+            "Minas Gerais",
+            "Espírito Santo",
+            522914
+        ],
+        [
+            "Minas Gerais",
+            "Alagoas",
+            1919568
+        ],
+        [
+            "Minas Gerais",
+            "Rio Grande do Norte",
+            2429437
+        ],
+        [
+            "Minas Gerais",
+            "Maranhão",
+            2499751
+        ],
+        [
+            "Minas Gerais",
+            "Santa Catarina",
+            1282281
+        ],
+        [
+            "Minas Gerais",
+            "Paraíba",
+            2261243
+        ],
+        [
+            "Minas Gerais",
+            "Piauí",
+            2157117
+        ],
+        [
+            "Minas Gerais",
+            "Mato Grosso",
+            1572993
+        ],
+        [
+            "Minas Gerais",
+            "Mato Grosso do Sul",
+            1263266
+        ],
+        [
+            "Minas Gerais",
+            "Sergipe",
+            1662651
+        ],
+        [
+            "Minas Gerais",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Minas Gerais",
+            "Rondônia",
+            3033251
+        ],
+        [
+            "Minas Gerais",
+            "Acre",
+            NaN
+        ],
+        [
+            "Minas Gerais",
+            "Tocantins",
+            1554069
+        ],
+        [
+            "Minas Gerais",
+            "Roraima",
+            4668563
+        ],
+        [
+            "Rio Grande do Sul",
+            "São Paulo",
+            1142980
+        ],
+        [
+            "Rio Grande do Sul",
+            "Rio de Janeiro",
+            1568952
+        ],
+        [
+            "Rio Grande do Sul",
+            "Minas Gerais",
+            1725626
+        ],
+        [
+            "Rio Grande do Sul",
+            "Pernambuco",
+            3831398
+        ],
+        [
+            "Rio Grande do Sul",
+            "Ceará",
+            4197532
+        ],
+        [
+            "Rio Grande do Sul",
+            "Bahia",
+            3162430
+        ],
+        [
+            "Rio Grande do Sul",
+            "Paraná",
+            746179
+        ],
+        [
+            "Rio Grande do Sul",
+            "Pará",
+            4010947
+        ],
+        [
+            "Rio Grande do Sul",
+            "Goiás",
+            2005975
+        ],
+        [
+            "Rio Grande do Sul",
+            "Amazonas",
+            4475083
+        ],
+        [
+            "Rio Grande do Sul",
+            "Espírito Santo",
+            2077621
+        ],
+        [
+            "Rio Grande do Sul",
+            "Alagoas",
+            3614339
+        ],
+        [
+            "Rio Grande do Sul",
+            "Rio Grande do Norte",
+            4124208
+        ],
+        [
+            "Rio Grande do Sul",
+            "Maranhão",
+            4102465
+        ],
+        [
+            "Rio Grande do Sul",
+            "Santa Catarina",
+            456359
+        ],
+        [
+            "Rio Grande do Sul",
+            "Paraíba",
+            3956014
+        ],
+        [
+            "Rio Grande do Sul",
+            "Piauí",
+            3759830
+        ],
+        [
+            "Rio Grande do Sul",
+            "Mato Grosso",
+            2127312
+        ],
+        [
+            "Rio Grande do Sul",
+            "Mato Grosso do Sul",
+            1425252
+        ],
+        [
+            "Rio Grande do Sul",
+            "Sergipe",
+            3357423
+        ],
+        [
+            "Rio Grande do Sul",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Rio Grande do Sul",
+            "Rondônia",
+            3587570
+        ],
+        [
+            "Rio Grande do Sul",
+            "Acre",
+            NaN
+        ],
+        [
+            "Rio Grande do Sul",
+            "Tocantins",
+            2919623
+        ],
+        [
+            "Rio Grande do Sul",
+            "Roraima",
+            5222882
+        ],
+        [
+            "Pernambuco",
+            "São Paulo",
+            2640150
+        ],
+        [
+            "Pernambuco",
+            "Rio de Janeiro",
+            2301090
+        ],
+        [
+            "Pernambuco",
+            "Minas Gerais",
+            2084925
+        ],
+        [
+            "Pernambuco",
+            "Rio Grande do Sul",
+            3776169
+        ],
+        [
+            "Pernambuco",
+            "Ceará",
+            758591
+        ],
+        [
+            "Pernambuco",
+            "Bahia",
+            806870
+        ],
+        [
+            "Pernambuco",
+            "Paraná",
+            3055772
+        ],
+        [
+            "Pernambuco",
+            "Pará",
+            2025438
+        ],
+        [
+            "Pernambuco",
+            "Goiás",
+            2314386
+        ],
+        [
+            "Pernambuco",
+            "Amazonas",
+            4673457
+        ],
+        [
+            "Pernambuco",
+            "Espírito Santo",
+            1842373
+        ],
+        [
+            "Pernambuco",
+            "Alagoas",
+            259029
+        ],
+        [
+            "Pernambuco",
+            "Rio Grande do Norte",
+            288291
+        ],
+        [
+            "Pernambuco",
+            "Maranhão",
+            1553531
+        ],
+        [
+            "Pernambuco",
+            "Santa Catarina",
+            3336495
+        ],
+        [
+            "Pernambuco",
+            "Paraíba",
+            120096
+        ],
+        [
+            "Pernambuco",
+            "Piauí",
+            1120608
+        ],
+        [
+            "Pernambuco",
+            "Mato Grosso",
+            3173456
+        ],
+        [
+            "Pernambuco",
+            "Mato Grosso do Sul",
+            3153700
+        ],
+        [
+            "Pernambuco",
+            "Sergipe",
+            501161
+        ],
+        [
+            "Pernambuco",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Pernambuco",
+            "Rondônia",
+            4181848
+        ],
+        [
+            "Pernambuco",
+            "Acre",
+            NaN
+        ],
+        [
+            "Pernambuco",
+            "Tocantins",
+            2039349
+        ],
+        [
+            "Pernambuco",
+            "Roraima",
+            5421256
+        ],
+        [
+            "Ceará",
+            "São Paulo",
+            3101778
+        ],
+        [
+            "Ceará",
+            "Rio de Janeiro",
+            2587805
+        ],
+        [
+            "Ceará",
+            "Minas Gerais",
+            2371641
+        ],
+        [
+            "Ceará",
+            "Rio Grande do Sul",
+            4209880
+        ],
+        [
+            "Ceará",
+            "Pernambuco",
+            781506
+        ],
+        [
+            "Ceará",
+            "Bahia",
+            1188705
+        ],
+        [
+            "Ceará",
+            "Paraná",
+            3489484
+        ],
+        [
+            "Ceará",
+            "Pará",
+            1497455
+        ],
+        [
+            "Ceará",
+            "Goiás",
+            2320033
+        ],
+        [
+            "Ceará",
+            "Amazonas",
+            4193252
+        ],
+        [
+            "Ceará",
+            "Espírito Santo",
+            2156986
+        ],
+        [
+            "Ceará",
+            "Alagoas",
+            950887
+        ],
+        [
+            "Ceará",
+            "Rio Grande do Norte",
+            538655
+        ],
+        [
+            "Ceará",
+            "Maranhão",
+            900139
+        ],
+        [
+            "Ceará",
+            "Santa Catarina",
+            3770206
+        ],
+        [
+            "Ceará",
+            "Paraíba",
+            682287
+        ],
+        [
+            "Ceará",
+            "Piauí",
+            592973
+        ],
+        [
+            "Ceará",
+            "Mato Grosso",
+            3179103
+        ],
+        [
+            "Ceará",
+            "Mato Grosso do Sul",
+            3159347
+        ],
+        [
+            "Ceará",
+            "Sergipe",
+            1108537
+        ],
+        [
+            "Ceará",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Ceará",
+            "Rondônia",
+            3701643
+        ],
+        [
+            "Ceará",
+            "Acre",
+            NaN
+        ],
+        [
+            "Ceará",
+            "Tocantins",
+            1763796
+        ],
+        [
+            "Ceará",
+            "Roraima",
+            4941051
+        ],
+        [
+            "Bahia",
+            "São Paulo",
+            1971445
+        ],
+        [
+            "Bahia",
+            "Rio de Janeiro",
+            1632385
+        ],
+        [
+            "Bahia",
+            "Minas Gerais",
+            1416220
+        ],
+        [
+            "Bahia",
+            "Rio Grande do Sul",
+            3107464
+        ],
+        [
+            "Bahia",
+            "Pernambuco",
+            804914
+        ],
+        [
+            "Bahia",
+            "Ceará",
+            1186218
+        ],
+        [
+            "Bahia",
+            "Paraná",
+            2387067
+        ],
+        [
+            "Bahia",
+            "Pará",
+            2048363
+        ],
+        [
+            "Bahia",
+            "Goiás",
+            1645681
+        ],
+        [
+            "Bahia",
+            "Amazonas",
+            4852521
+        ],
+        [
+            "Bahia",
+            "Espírito Santo",
+            1167033
+        ],
+        [
+            "Bahia",
+            "Alagoas",
+            581335
+        ],
+        [
+            "Bahia",
+            "Rio Grande do Norte",
+            1091204
+        ],
+        [
+            "Bahia",
+            "Maranhão",
+            1576457
+        ],
+        [
+            "Bahia",
+            "Santa Catarina",
+            2667790
+        ],
+        [
+            "Bahia",
+            "Paraíba",
+            923009
+        ],
+        [
+            "Bahia",
+            "Piauí",
+            1143534
+        ],
+        [
+            "Bahia",
+            "Mato Grosso",
+            2504751
+        ],
+        [
+            "Bahia",
+            "Mato Grosso do Sul",
+            2484995
+        ],
+        [
+            "Bahia",
+            "Sergipe",
+            314681
+        ],
+        [
+            "Bahia",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Bahia",
+            "Rondônia",
+            3965009
+        ],
+        [
+            "Bahia",
+            "Acre",
+            NaN
+        ],
+        [
+            "Bahia",
+            "Tocantins",
+            1438016
+        ],
+        [
+            "Bahia",
+            "Roraima",
+            5600321
+        ],
+        [
+            "Paraná",
+            "São Paulo",
+            423669
+        ],
+        [
+            "Paraná",
+            "Rio de Janeiro",
+            849641
+        ],
+        [
+            "Paraná",
+            "Minas Gerais",
+            1006315
+        ],
+        [
+            "Paraná",
+            "Rio Grande do Sul",
+            743889
+        ],
+        [
+            "Paraná",
+            "Pernambuco",
+            3112087
+        ],
+        [
+            "Paraná",
+            "Ceará",
+            3478221
+        ],
+        [
+            "Paraná",
+            "Bahia",
+            2443119
+        ],
+        [
+            "Paraná",
+            "Pará",
+            3291636
+        ],
+        [
+            "Paraná",
+            "Goiás",
+            1286664
+        ],
+        [
+            "Paraná",
+            "Amazonas",
+            4021268
+        ],
+        [
+            "Paraná",
+            "Espírito Santo",
+            1358310
+        ],
+        [
+            "Paraná",
+            "Alagoas",
+            2895028
+        ],
+        [
+            "Paraná",
+            "Rio Grande do Norte",
+            3404897
+        ],
+        [
+            "Paraná",
+            "Maranhão",
+            3383154
+        ],
+        [
+            "Paraná",
+            "Santa Catarina",
+            304215
+        ],
+        [
+            "Paraná",
+            "Paraíba",
+            3236703
+        ],
+        [
+            "Paraná",
+            "Piauí",
+            3040519
+        ],
+        [
+            "Paraná",
+            "Mato Grosso",
+            1673497
+        ],
+        [
+            "Paraná",
+            "Mato Grosso do Sul",
+            1003334
+        ],
+        [
+            "Paraná",
+            "Sergipe",
+            2638112
+        ],
+        [
+            "Paraná",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Paraná",
+            "Rondônia",
+            3133755
+        ],
+        [
+            "Paraná",
+            "Acre",
+            NaN
+        ],
+        [
+            "Paraná",
+            "Tocantins",
+            2200312
+        ],
+        [
+            "Paraná",
+            "Roraima",
+            4769067
+        ],
+        [
+            "Pará",
+            "São Paulo",
+            2883768
+        ],
+        [
+            "Pará",
+            "Rio de Janeiro",
+            3121061
+        ],
+        [
+            "Pará",
+            "Minas Gerais",
+            2693666
+        ],
+        [
+            "Pará",
+            "Rio Grande do Sul",
+            3991870
+        ],
+        [
+            "Pará",
+            "Pernambuco",
+            2025474
+        ],
+        [
+            "Pará",
+            "Ceará",
+            1499342
+        ],
+        [
+            "Pará",
+            "Bahia",
+            2050655
+        ],
+        [
+            "Pará",
+            "Paraná",
+            3271473
+        ],
+        [
+            "Pará",
+            "Goiás",
+            1982492
+        ],
+        [
+            "Pará",
+            "Amazonas",
+            3047194
+        ],
+        [
+            "Pará",
+            "Espírito Santo",
+            3188012
+        ],
+        [
+            "Pará",
+            "Alagoas",
+            2104458
+        ],
+        [
+            "Pará",
+            "Rio Grande do Norte",
+            1974222
+        ],
+        [
+            "Pará",
+            "Maranhão",
+            581827
+        ],
+        [
+            "Pará",
+            "Santa Catarina",
+            3552196
+        ],
+        [
+            "Pará",
+            "Paraíba",
+            2067919
+        ],
+        [
+            "Pará",
+            "Piauí",
+            906970
+        ],
+        [
+            "Pará",
+            "Mato Grosso",
+            2490069
+        ],
+        [
+            "Pará",
+            "Mato Grosso do Sul",
+            2846630
+        ],
+        [
+            "Pará",
+            "Sergipe",
+            2017703
+        ],
+        [
+            "Pará",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Pará",
+            "Rondônia",
+            2555585
+        ],
+        [
+            "Pará",
+            "Acre",
+            NaN
+        ],
+        [
+            "Pará",
+            "Tocantins",
+            1221601
+        ],
+        [
+            "Pará",
+            "Roraima",
+            3794993
+        ],
+        [
+            "Goiás",
+            "São Paulo",
+            903126
+        ],
+        [
+            "Goiás",
+            "Rio de Janeiro",
+            1304979
+        ],
+        [
+            "Goiás",
+            "Minas Gerais",
+            891890
+        ],
+        [
+            "Goiás",
+            "Rio Grande do Sul",
+            2011228
+        ],
+        [
+            "Goiás",
+            "Pernambuco",
+            2314899
+        ],
+        [
+            "Goiás",
+            "Ceará",
+            2319384
+        ],
+        [
+            "Goiás",
+            "Bahia",
+            1645931
+        ],
+        [
+            "Goiás",
+            "Paraná",
+            1290831
+        ],
+        [
+            "Goiás",
+            "Pará",
+            1981337
+        ],
+        [
+            "Goiás",
+            "Amazonas",
+            3242942
+        ],
+        [
+            "Goiás",
+            "Espírito Santo",
+            1405760
+        ],
+        [
+            "Goiás",
+            "Alagoas",
+            2097840
+        ],
+        [
+            "Goiás",
+            "Rio Grande do Norte",
+            2607710
+        ],
+        [
+            "Goiás",
+            "Maranhão",
+            2007656
+        ],
+        [
+            "Goiás",
+            "Santa Catarina",
+            1571554
+        ],
+        [
+            "Goiás",
+            "Paraíba",
+            2439515
+        ],
+        [
+            "Goiás",
+            "Piauí",
+            1881682
+        ],
+        [
+            "Goiás",
+            "Mato Grosso",
+            895171
+        ],
+        [
+            "Goiás",
+            "Mato Grosso do Sul",
+            841449
+        ],
+        [
+            "Goiás",
+            "Sergipe",
+            1840924
+        ],
+        [
+            "Goiás",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Goiás",
+            "Rondônia",
+            2355429
+        ],
+        [
+            "Goiás",
+            "Acre",
+            NaN
+        ],
+        [
+            "Goiás",
+            "Tocantins",
+            822544
+        ],
+        [
+            "Goiás",
+            "Roraima",
+            3990741
+        ],
+        [
+            "Amazonas",
+            "São Paulo",
+            3875768
+        ],
+        [
+            "Amazonas",
+            "Rio de Janeiro",
+            4277622
+        ],
+        [
+            "Amazonas",
+            "Minas Gerais",
+            3949684
+        ],
+        [
+            "Amazonas",
+            "Rio Grande do Sul",
+            4480368
+        ],
+        [
+            "Amazonas",
+            "Pernambuco",
+            4674151
+        ],
+        [
+            "Amazonas",
+            "Ceará",
+            4194959
+        ],
+        [
+            "Amazonas",
+            "Bahia",
+            4855394
+        ],
+        [
+            "Amazonas",
+            "Paraná",
+            4023407
+        ],
+        [
+            "Amazonas",
+            "Pará",
+            3049515
+        ],
+        [
+            "Amazonas",
+            "Goiás",
+            3245753
+        ],
+        [
+            "Amazonas",
+            "Espírito Santo",
+            4463554
+        ],
+        [
+            "Amazonas",
+            "Alagoas",
+            4753135
+        ],
+        [
+            "Amazonas",
+            "Rio Grande do Norte",
+            4734076
+        ],
+        [
+            "Amazonas",
+            "Maranhão",
+            3538568
+        ],
+        [
+            "Amazonas",
+            "Santa Catarina",
+            4320891
+        ],
+        [
+            "Amazonas",
+            "Paraíba",
+            4716596
+        ],
+        [
+            "Amazonas",
+            "Piauí",
+            3602587
+        ],
+        [
+            "Amazonas",
+            "Mato Grosso",
+            2347758
+        ],
+        [
+            "Amazonas",
+            "Mato Grosso do Sul",
+            3054826
+        ],
+        [
+            "Amazonas",
+            "Sergipe",
+            4666380
+        ],
+        [
+            "Amazonas",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Amazonas",
+            "Rondônia",
+            888329
+        ],
+        [
+            "Amazonas",
+            "Acre",
+            NaN
+        ],
+        [
+            "Amazonas",
+            "Tocantins",
+            3414055
+        ],
+        [
+            "Amazonas",
+            "Roraima",
+            748466
+        ],
+        [
+            "Espírito Santo",
+            "São Paulo",
+            942622
+        ],
+        [
+            "Espírito Santo",
+            "Rio de Janeiro",
+            524755
+        ],
+        [
+            "Espírito Santo",
+            "Minas Gerais",
+            521933
+        ],
+        [
+            "Espírito Santo",
+            "Rio Grande do Sul",
+            2078788
+        ],
+        [
+            "Espírito Santo",
+            "Pernambuco",
+            1842155
+        ],
+        [
+            "Espírito Santo",
+            "Ceará",
+            2161260
+        ],
+        [
+            "Espírito Santo",
+            "Bahia",
+            1167064
+        ],
+        [
+            "Espírito Santo",
+            "Paraná",
+            1358392
+        ],
+        [
+            "Espírito Santo",
+            "Pará",
+            3187649
+        ],
+        [
+            "Espírito Santo",
+            "Goiás",
+            1390564
+        ],
+        [
+            "Espírito Santo",
+            "Amazonas",
+            4436734
+        ],
+        [
+            "Espírito Santo",
+            "Alagoas",
+            1618575
+        ],
+        [
+            "Espírito Santo",
+            "Rio Grande do Norte",
+            2128444
+        ],
+        [
+            "Espírito Santo",
+            "Maranhão",
+            2551499
+        ],
+        [
+            "Espírito Santo",
+            "Santa Catarina",
+            1639114
+        ],
+        [
+            "Espírito Santo",
+            "Paraíba",
+            1960250
+        ],
+        [
+            "Espírito Santo",
+            "Piauí",
+            2118576
+        ],
+        [
+            "Espírito Santo",
+            "Mato Grosso",
+            2088963
+        ],
+        [
+            "Espírito Santo",
+            "Mato Grosso do Sul",
+            1927069
+        ],
+        [
+            "Espírito Santo",
+            "Sergipe",
+            1361659
+        ],
+        [
+            "Espírito Santo",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Espírito Santo",
+            "Rondônia",
+            3549221
+        ],
+        [
+            "Espírito Santo",
+            "Acre",
+            NaN
+        ],
+        [
+            "Espírito Santo",
+            "Tocantins",
+            2068850
+        ],
+        [
+            "Espírito Santo",
+            "Roraima",
+            5184533
+        ],
+        [
+            "Alagoas",
+            "São Paulo",
+            2423425
+        ],
+        [
+            "Alagoas",
+            "Rio de Janeiro",
+            2084364
+        ],
+        [
+            "Alagoas",
+            "Minas Gerais",
+            1868200
+        ],
+        [
+            "Alagoas",
+            "Rio Grande do Sul",
+            3559443
+        ],
+        [
+            "Alagoas",
+            "Pernambuco",
+            259978
+        ],
+        [
+            "Alagoas",
+            "Ceará",
+            950866
+        ],
+        [
+            "Alagoas",
+            "Bahia",
+            583009
+        ],
+        [
+            "Alagoas",
+            "Paraná",
+            2839046
+        ],
+        [
+            "Alagoas",
+            "Pará",
+            2100808
+        ],
+        [
+            "Alagoas",
+            "Goiás",
+            2097660
+        ],
+        [
+            "Alagoas",
+            "Amazonas",
+            4748828
+        ],
+        [
+            "Alagoas",
+            "Espírito Santo",
+            1618512
+        ],
+        [
+            "Alagoas",
+            "Rio Grande do Norte",
+            546268
+        ],
+        [
+            "Alagoas",
+            "Maranhão",
+            1628902
+        ],
+        [
+            "Alagoas",
+            "Santa Catarina",
+            3119769
+        ],
+        [
+            "Alagoas",
+            "Paraíba",
+            378073
+        ],
+        [
+            "Alagoas",
+            "Piauí",
+            1195979
+        ],
+        [
+            "Alagoas",
+            "Mato Grosso",
+            2956730
+        ],
+        [
+            "Alagoas",
+            "Mato Grosso do Sul",
+            2936975
+        ],
+        [
+            "Alagoas",
+            "Sergipe",
+            277300
+        ],
+        [
+            "Alagoas",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Alagoas",
+            "Rondônia",
+            4416988
+        ],
+        [
+            "Alagoas",
+            "Acre",
+            NaN
+        ],
+        [
+            "Alagoas",
+            "Tocantins",
+            1889996
+        ],
+        [
+            "Alagoas",
+            "Roraima",
+            5496627
+        ],
+        [
+            "Rio Grande do Norte",
+            "São Paulo",
+            2925467
+        ],
+        [
+            "Rio Grande do Norte",
+            "Rio de Janeiro",
+            2586407
+        ],
+        [
+            "Rio Grande do Norte",
+            "Minas Gerais",
+            2370242
+        ],
+        [
+            "Rio Grande do Norte",
+            "Rio Grande do Sul",
+            4061486
+        ],
+        [
+            "Rio Grande do Norte",
+            "Pernambuco",
+            288028
+        ],
+        [
+            "Rio Grande do Norte",
+            "Ceará",
+            529015
+        ],
+        [
+            "Rio Grande do Norte",
+            "Bahia",
+            1091544
+        ],
+        [
+            "Rio Grande do Norte",
+            "Paraná",
+            3341089
+        ],
+        [
+            "Rio Grande do Norte",
+            "Pará",
+            1958039
+        ],
+        [
+            "Rio Grande do Norte",
+            "Goiás",
+            2599703
+        ],
+        [
+            "Rio Grande do Norte",
+            "Amazonas",
+            4725509
+        ],
+        [
+            "Rio Grande do Norte",
+            "Espírito Santo",
+            2127046
+        ],
+        [
+            "Rio Grande do Norte",
+            "Alagoas",
+            543702
+        ],
+        [
+            "Rio Grande do Norte",
+            "Maranhão",
+            1426813
+        ],
+        [
+            "Rio Grande do Norte",
+            "Santa Catarina",
+            3621812
+        ],
+        [
+            "Rio Grande do Norte",
+            "Paraíba",
+            188808
+        ],
+        [
+            "Rio Grande do Norte",
+            "Piauí",
+            1053556
+        ],
+        [
+            "Rio Grande do Norte",
+            "Mato Grosso",
+            3458773
+        ],
+        [
+            "Rio Grande do Norte",
+            "Mato Grosso do Sul",
+            3439017
+        ],
+        [
+            "Rio Grande do Norte",
+            "Sergipe",
+            785835
+        ],
+        [
+            "Rio Grande do Norte",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Rio Grande do Norte",
+            "Rondônia",
+            4233900
+        ],
+        [
+            "Rio Grande do Norte",
+            "Acre",
+            NaN
+        ],
+        [
+            "Rio Grande do Norte",
+            "Tocantins",
+            2091400
+        ],
+        [
+            "Rio Grande do Norte",
+            "Roraima",
+            5473308
+        ],
+        [
+            "Maranhão",
+            "São Paulo",
+            2907984
+        ],
+        [
+            "Maranhão",
+            "Rio de Janeiro",
+            2924415
+        ],
+        [
+            "Maranhão",
+            "Minas Gerais",
+            2497021
+        ],
+        [
+            "Maranhão",
+            "Rio Grande do Sul",
+            4016086
+        ],
+        [
+            "Maranhão",
+            "Pernambuco",
+            1551509
+        ],
+        [
+            "Maranhão",
+            "Ceará",
+            898023
+        ],
+        [
+            "Maranhão",
+            "Bahia",
+            1576690
+        ],
+        [
+            "Maranhão",
+            "Paraná",
+            3295690
+        ],
+        [
+            "Maranhão",
+            "Pará",
+            580575
+        ],
+        [
+            "Maranhão",
+            "Goiás",
+            2006709
+        ],
+        [
+            "Maranhão",
+            "Amazonas",
+            3536391
+        ],
+        [
+            "Maranhão",
+            "Espírito Santo",
+            2544971
+        ],
+        [
+            "Maranhão",
+            "Alagoas",
+            1630493
+        ],
+        [
+            "Maranhão",
+            "Rio Grande do Norte",
+            1429568
+        ],
+        [
+            "Maranhão",
+            "Santa Catarina",
+            3576412
+        ],
+        [
+            "Maranhão",
+            "Paraíba",
+            1573201
+        ],
+        [
+            "Maranhão",
+            "Piauí",
+            433005
+        ],
+        [
+            "Maranhão",
+            "Mato Grosso",
+            2684372
+        ],
+        [
+            "Maranhão",
+            "Mato Grosso do Sul",
+            2870846
+        ],
+        [
+            "Maranhão",
+            "Sergipe",
+            1543738
+        ],
+        [
+            "Maranhão",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Maranhão",
+            "Rondônia",
+            3044783
+        ],
+        [
+            "Maranhão",
+            "Acre",
+            NaN
+        ],
+        [
+            "Maranhão",
+            "Tocantins",
+            1245818
+        ],
+        [
+            "Maranhão",
+            "Roraima",
+            4284191
+        ],
+        [
+            "Santa Catarina",
+            "São Paulo",
+            704635
+        ],
+        [
+            "Santa Catarina",
+            "Rio de Janeiro",
+            1130606
+        ],
+        [
+            "Santa Catarina",
+            "Minas Gerais",
+            1287281
+        ],
+        [
+            "Santa Catarina",
+            "Rio Grande do Sul",
+            458725
+        ],
+        [
+            "Santa Catarina",
+            "Pernambuco",
+            3393052
+        ],
+        [
+            "Santa Catarina",
+            "Ceará",
+            3759187
+        ],
+        [
+            "Santa Catarina",
+            "Bahia",
+            2724084
+        ],
+        [
+            "Santa Catarina",
+            "Paraná",
+            307834
+        ],
+        [
+            "Santa Catarina",
+            "Pará",
+            3572602
+        ],
+        [
+            "Santa Catarina",
+            "Goiás",
+            1567629
+        ],
+        [
+            "Santa Catarina",
+            "Amazonas",
+            4320354
+        ],
+        [
+            "Santa Catarina",
+            "Espírito Santo",
+            1639275
+        ],
+        [
+            "Santa Catarina",
+            "Alagoas",
+            3175994
+        ],
+        [
+            "Santa Catarina",
+            "Rio Grande do Norte",
+            3685863
+        ],
+        [
+            "Santa Catarina",
+            "Maranhão",
+            3664119
+        ],
+        [
+            "Santa Catarina",
+            "Paraíba",
+            3517668
+        ],
+        [
+            "Santa Catarina",
+            "Piauí",
+            3321485
+        ],
+        [
+            "Santa Catarina",
+            "Mato Grosso",
+            1972584
+        ],
+        [
+            "Santa Catarina",
+            "Mato Grosso do Sul",
+            1302421
+        ],
+        [
+            "Santa Catarina",
+            "Sergipe",
+            2919077
+        ],
+        [
+            "Santa Catarina",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Santa Catarina",
+            "Rondônia",
+            3432842
+        ],
+        [
+            "Santa Catarina",
+            "Acre",
+            NaN
+        ],
+        [
+            "Santa Catarina",
+            "Tocantins",
+            2481278
+        ],
+        [
+            "Santa Catarina",
+            "Roraima",
+            5068154
+        ],
+        [
+            "Paraíba",
+            "São Paulo",
+            2759042
+        ],
+        [
+            "Paraíba",
+            "Rio de Janeiro",
+            2419982
+        ],
+        [
+            "Paraíba",
+            "Minas Gerais",
+            2203817
+        ],
+        [
+            "Paraíba",
+            "Rio Grande do Sul",
+            3895061
+        ],
+        [
+            "Paraíba",
+            "Pernambuco",
+            121602
+        ],
+        [
+            "Paraíba",
+            "Ceará",
+            659578
+        ],
+        [
+            "Paraíba",
+            "Bahia",
+            925118
+        ],
+        [
+            "Paraíba",
+            "Paraná",
+            3174664
+        ],
+        [
+            "Paraíba",
+            "Pará",
+            2070056
+        ],
+        [
+            "Paraíba",
+            "Goiás",
+            2433278
+        ],
+        [
+            "Paraíba",
+            "Amazonas",
+            4718076
+        ],
+        [
+            "Paraíba",
+            "Espírito Santo",
+            1960621
+        ],
+        [
+            "Paraíba",
+            "Alagoas",
+            377277
+        ],
+        [
+            "Paraíba",
+            "Rio Grande do Norte",
+            189277
+        ],
+        [
+            "Paraíba",
+            "Maranhão",
+            1557376
+        ],
+        [
+            "Paraíba",
+            "Santa Catarina",
+            3455387
+        ],
+        [
+            "Paraíba",
+            "Piauí",
+            1165227
+        ],
+        [
+            "Paraíba",
+            "Mato Grosso",
+            3292348
+        ],
+        [
+            "Paraíba",
+            "Mato Grosso do Sul",
+            3272592
+        ],
+        [
+            "Paraíba",
+            "Sergipe",
+            619409
+        ],
+        [
+            "Paraíba",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Paraíba",
+            "Rondônia",
+            4226467
+        ],
+        [
+            "Paraíba",
+            "Acre",
+            NaN
+        ],
+        [
+            "Paraíba",
+            "Tocantins",
+            2083968
+        ],
+        [
+            "Paraíba",
+            "Roraima",
+            5465875
+        ],
+        [
+            "Piauí",
+            "São Paulo",
+            2664383
+        ],
+        [
+            "Piauí",
+            "Rio de Janeiro",
+            2584616
+        ],
+        [
+            "Piauí",
+            "Minas Gerais",
+            2157221
+        ],
+        [
+            "Piauí",
+            "Rio Grande do Sul",
+            3772485
+        ],
+        [
+            "Piauí",
+            "Pernambuco",
+            1121135
+        ],
+        [
+            "Piauí",
+            "Ceará",
+            592806
+        ],
+        [
+            "Piauí",
+            "Bahia",
+            1146316
+        ],
+        [
+            "Piauí",
+            "Paraná",
+            3052088
+        ],
+        [
+            "Piauí",
+            "Pará",
+            905969
+        ],
+        [
+            "Piauí",
+            "Goiás",
+            1882638
+        ],
+        [
+            "Piauí",
+            "Amazonas",
+            3601766
+        ],
+        [
+            "Piauí",
+            "Espírito Santo",
+            2114596
+        ],
+        [
+            "Piauí",
+            "Alagoas",
+            1200119
+        ],
+        [
+            "Piauí",
+            "Rio Grande do Norte",
+            1067687
+        ],
+        [
+            "Piauí",
+            "Maranhão",
+            434063
+        ],
+        [
+            "Piauí",
+            "Santa Catarina",
+            3332811
+        ],
+        [
+            "Piauí",
+            "Paraíba",
+            1163580
+        ],
+        [
+            "Piauí",
+            "Mato Grosso",
+            2575479
+        ],
+        [
+            "Piauí",
+            "Mato Grosso do Sul",
+            2721952
+        ],
+        [
+            "Piauí",
+            "Sergipe",
+            1113364
+        ],
+        [
+            "Piauí",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Piauí",
+            "Rondônia",
+            3110157
+        ],
+        [
+            "Piauí",
+            "Acre",
+            NaN
+        ],
+        [
+            "Piauí",
+            "Tocantins",
+            1136924
+        ],
+        [
+            "Piauí",
+            "Roraima",
+            4349565
+        ],
+        [
+            "Mato Grosso",
+            "São Paulo",
+            1527495
+        ],
+        [
+            "Mato Grosso",
+            "Rio de Janeiro",
+            1929349
+        ],
+        [
+            "Mato Grosso",
+            "Minas Gerais",
+            1601411
+        ],
+        [
+            "Mato Grosso",
+            "Rio Grande do Sul",
+            2132094
+        ],
+        [
+            "Mato Grosso",
+            "Pernambuco",
+            3176089
+        ],
+        [
+            "Mato Grosso",
+            "Ceará",
+            3180574
+        ],
+        [
+            "Mato Grosso",
+            "Bahia",
+            2507121
+        ],
+        [
+            "Mato Grosso",
+            "Paraná",
+            1675134
+        ],
+        [
+            "Mato Grosso",
+            "Pará",
+            2344334
+        ],
+        [
+            "Mato Grosso",
+            "Goiás",
+            897479
+        ],
+        [
+            "Mato Grosso",
+            "Amazonas",
+            2347922
+        ],
+        [
+            "Mato Grosso",
+            "Espírito Santo",
+            2115281
+        ],
+        [
+            "Mato Grosso",
+            "Alagoas",
+            2959030
+        ],
+        [
+            "Mato Grosso",
+            "Rio Grande do Norte",
+            3468900
+        ],
+        [
+            "Mato Grosso",
+            "Maranhão",
+            2688580
+        ],
+        [
+            "Mato Grosso",
+            "Santa Catarina",
+            1972617
+        ],
+        [
+            "Mato Grosso",
+            "Paraíba",
+            3300705
+        ],
+        [
+            "Mato Grosso",
+            "Piauí",
+            2578456
+        ],
+        [
+            "Mato Grosso",
+            "Mato Grosso do Sul",
+            706553
+        ],
+        [
+            "Mato Grosso",
+            "Sergipe",
+            2702114
+        ],
+        [
+            "Mato Grosso",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Mato Grosso",
+            "Rondônia",
+            1460409
+        ],
+        [
+            "Mato Grosso",
+            "Acre",
+            NaN
+        ],
+        [
+            "Mato Grosso",
+            "Tocantins",
+            1503468
+        ],
+        [
+            "Mato Grosso",
+            "Roraima",
+            3095721
+        ],
+        [
+            "Mato Grosso do Sul",
+            "São Paulo",
+            992385
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Rio de Janeiro",
+            1418356
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Minas Gerais",
+            1270170
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Rio Grande do Sul",
+            1427443
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Pernambuco",
+            3158260
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Ceará",
+            3162746
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Bahia",
+            2489293
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Paraná",
+            1002002
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Pará",
+            2852561
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Goiás",
+            844137
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Amazonas",
+            3056331
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Espírito Santo",
+            1927026
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Alagoas",
+            2941202
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Rio Grande do Norte",
+            3451071
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Maranhão",
+            2878880
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Santa Catarina",
+            1299486
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Paraíba",
+            3282877
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Piauí",
+            2725044
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Mato Grosso",
+            708561
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Sergipe",
+            2684286
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Rondônia",
+            2168819
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Acre",
+            NaN
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Tocantins",
+            1693768
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Roraima",
+            3804131
+        ],
+        [
+            "Sergipe",
+            "São Paulo",
+            2167023
+        ],
+        [
+            "Sergipe",
+            "Rio de Janeiro",
+            1827963
+        ],
+        [
+            "Sergipe",
+            "Minas Gerais",
+            1611798
+        ],
+        [
+            "Sergipe",
+            "Rio Grande do Sul",
+            3303042
+        ],
+        [
+            "Sergipe",
+            "Pernambuco",
+            499793
+        ],
+        [
+            "Sergipe",
+            "Ceará",
+            1107113
+        ],
+        [
+            "Sergipe",
+            "Bahia",
+            317061
+        ],
+        [
+            "Sergipe",
+            "Paraná",
+            2582645
+        ],
+        [
+            "Sergipe",
+            "Pará",
+            2017585
+        ],
+        [
+            "Sergipe",
+            "Goiás",
+            1841259
+        ],
+        [
+            "Sergipe",
+            "Amazonas",
+            4665604
+        ],
+        [
+            "Sergipe",
+            "Espírito Santo",
+            1362110
+        ],
+        [
+            "Sergipe",
+            "Alagoas",
+            276213
+        ],
+        [
+            "Sergipe",
+            "Rio Grande do Norte",
+            786083
+        ],
+        [
+            "Sergipe",
+            "Maranhão",
+            1545679
+        ],
+        [
+            "Sergipe",
+            "Santa Catarina",
+            2863368
+        ],
+        [
+            "Sergipe",
+            "Paraíba",
+            617888
+        ],
+        [
+            "Sergipe",
+            "Piauí",
+            1112756
+        ],
+        [
+            "Sergipe",
+            "Mato Grosso",
+            2700329
+        ],
+        [
+            "Sergipe",
+            "Mato Grosso do Sul",
+            2680573
+        ],
+        [
+            "Sergipe",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Sergipe",
+            "Rondônia",
+            4160587
+        ],
+        [
+            "Sergipe",
+            "Acre",
+            NaN
+        ],
+        [
+            "Sergipe",
+            "Tocantins",
+            1633594
+        ],
+        [
+            "Sergipe",
+            "Roraima",
+            5413404
+        ],
+        [
+            "Amapá",
+            "São Paulo",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Rio de Janeiro",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Minas Gerais",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Rio Grande do Sul",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Pernambuco",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Ceará",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Bahia",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Paraná",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Pará",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Goiás",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Amazonas",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Espírito Santo",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Alagoas",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Rio Grande do Norte",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Maranhão",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Santa Catarina",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Paraíba",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Piauí",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Mato Grosso",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Mato Grosso do Sul",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Sergipe",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Rondônia",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Acre",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Tocantins",
+            NaN
+        ],
+        [
+            "Amapá",
+            "Roraima",
+            NaN
+        ],
+        [
+            "Rondônia",
+            "São Paulo",
+            2988242
+        ],
+        [
+            "Rondônia",
+            "Rio de Janeiro",
+            3390096
+        ],
+        [
+            "Rondônia",
+            "Minas Gerais",
+            3062158
+        ],
+        [
+            "Rondônia",
+            "Rio Grande do Sul",
+            3592842
+        ],
+        [
+            "Rondônia",
+            "Pernambuco",
+            4181612
+        ],
+        [
+            "Rondônia",
+            "Ceará",
+            3702420
+        ],
+        [
+            "Rondônia",
+            "Bahia",
+            3967868
+        ],
+        [
+            "Rondônia",
+            "Paraná",
+            3135881
+        ],
+        [
+            "Rondônia",
+            "Pará",
+            2556976
+        ],
+        [
+            "Rondônia",
+            "Goiás",
+            2358226
+        ],
+        [
+            "Rondônia",
+            "Amazonas",
+            887613
+        ],
+        [
+            "Rondônia",
+            "Espírito Santo",
+            3576028
+        ],
+        [
+            "Rondônia",
+            "Alagoas",
+            4419778
+        ],
+        [
+            "Rondônia",
+            "Rio Grande do Norte",
+            4241536
+        ],
+        [
+            "Rondônia",
+            "Maranhão",
+            3046029
+        ],
+        [
+            "Rondônia",
+            "Santa Catarina",
+            3433364
+        ],
+        [
+            "Rondônia",
+            "Paraíba",
+            4224057
+        ],
+        [
+            "Rondônia",
+            "Piauí",
+            3110047
+        ],
+        [
+            "Rondônia",
+            "Mato Grosso",
+            1460232
+        ],
+        [
+            "Rondônia",
+            "Mato Grosso do Sul",
+            2167300
+        ],
+        [
+            "Rondônia",
+            "Sergipe",
+            4162861
+        ],
+        [
+            "Rondônia",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Rondônia",
+            "Acre",
+            NaN
+        ],
+        [
+            "Rondônia",
+            "Tocantins",
+            2964215
+        ],
+        [
+            "Rondônia",
+            "Roraima",
+            1635413
+        ],
+        [
+            "Acre",
+            "São Paulo",
+            NaN
+        ],
+        [
+            "Acre",
+            "Rio de Janeiro",
+            NaN
+        ],
+        [
+            "Acre",
+            "Minas Gerais",
+            NaN
+        ],
+        [
+            "Acre",
+            "Rio Grande do Sul",
+            NaN
+        ],
+        [
+            "Acre",
+            "Pernambuco",
+            NaN
+        ],
+        [
+            "Acre",
+            "Ceará",
+            NaN
+        ],
+        [
+            "Acre",
+            "Bahia",
+            NaN
+        ],
+        [
+            "Acre",
+            "Paraná",
+            NaN
+        ],
+        [
+            "Acre",
+            "Pará",
+            NaN
+        ],
+        [
+            "Acre",
+            "Goiás",
+            NaN
+        ],
+        [
+            "Acre",
+            "Amazonas",
+            NaN
+        ],
+        [
+            "Acre",
+            "Espírito Santo",
+            NaN
+        ],
+        [
+            "Acre",
+            "Alagoas",
+            NaN
+        ],
+        [
+            "Acre",
+            "Rio Grande do Norte",
+            NaN
+        ],
+        [
+            "Acre",
+            "Maranhão",
+            NaN
+        ],
+        [
+            "Acre",
+            "Santa Catarina",
+            NaN
+        ],
+        [
+            "Acre",
+            "Paraíba",
+            NaN
+        ],
+        [
+            "Acre",
+            "Piauí",
+            NaN
+        ],
+        [
+            "Acre",
+            "Mato Grosso",
+            NaN
+        ],
+        [
+            "Acre",
+            "Mato Grosso do Sul",
+            NaN
+        ],
+        [
+            "Acre",
+            "Sergipe",
+            NaN
+        ],
+        [
+            "Acre",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Acre",
+            "Rondônia",
+            NaN
+        ],
+        [
+            "Acre",
+            "Tocantins",
+            NaN
+        ],
+        [
+            "Acre",
+            "Roraima",
+            NaN
+        ],
+        [
+            "Tocantins",
+            "São Paulo",
+            1724465
+        ],
+        [
+            "Tocantins",
+            "Rio de Janeiro",
+            1972263
+        ],
+        [
+            "Tocantins",
+            "Minas Gerais",
+            1544869
+        ],
+        [
+            "Tocantins",
+            "Rio Grande do Sul",
+            2832567
+        ],
+        [
+            "Tocantins",
+            "Pernambuco",
+            2041669
+        ],
+        [
+            "Tocantins",
+            "Ceará",
+            1765602
+        ],
+        [
+            "Tocantins",
+            "Bahia",
+            1448296
+        ],
+        [
+            "Tocantins",
+            "Paraná",
+            2112170
+        ],
+        [
+            "Tocantins",
+            "Pará",
+            1223587
+        ],
+        [
+            "Tocantins",
+            "Goiás",
+            823189
+        ],
+        [
+            "Tocantins",
+            "Amazonas",
+            3393866
+        ],
+        [
+            "Tocantins",
+            "Espírito Santo",
+            2058738
+        ],
+        [
+            "Tocantins",
+            "Alagoas",
+            1900205
+        ],
+        [
+            "Tocantins",
+            "Rio Grande do Norte",
+            2101593
+        ],
+        [
+            "Tocantins",
+            "Maranhão",
+            1249905
+        ],
+        [
+            "Tocantins",
+            "Santa Catarina",
+            2392893
+        ],
+        [
+            "Tocantins",
+            "Paraíba",
+            2084113
+        ],
+        [
+            "Tocantins",
+            "Piauí",
+            1139781
+        ],
+        [
+            "Tocantins",
+            "Mato Grosso",
+            1500853
+        ],
+        [
+            "Tocantins",
+            "Mato Grosso do Sul",
+            1687326
+        ],
+        [
+            "Tocantins",
+            "Sergipe",
+            1643289
+        ],
+        [
+            "Tocantins",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Tocantins",
+            "Rondônia",
+            2961111
+        ],
+        [
+            "Tocantins",
+            "Acre",
+            NaN
+        ],
+        [
+            "Tocantins",
+            "Roraima",
+            4141665
+        ],
+        [
+            "Roraima",
+            "São Paulo",
+            4626711
+        ],
+        [
+            "Roraima",
+            "Rio de Janeiro",
+            5028564
+        ],
+        [
+            "Roraima",
+            "Minas Gerais",
+            4700627
+        ],
+        [
+            "Roraima",
+            "Rio Grande do Sul",
+            5231310
+        ],
+        [
+            "Roraima",
+            "Pernambuco",
+            5425093
+        ],
+        [
+            "Roraima",
+            "Ceará",
+            4945901
+        ],
+        [
+            "Roraima",
+            "Bahia",
+            5606337
+        ],
+        [
+            "Roraima",
+            "Paraná",
+            4774349
+        ],
+        [
+            "Roraima",
+            "Pará",
+            3800457
+        ],
+        [
+            "Roraima",
+            "Goiás",
+            3996695
+        ],
+        [
+            "Roraima",
+            "Amazonas",
+            749144
+        ],
+        [
+            "Roraima",
+            "Espírito Santo",
+            5214496
+        ],
+        [
+            "Roraima",
+            "Alagoas",
+            5504077
+        ],
+        [
+            "Roraima",
+            "Rio Grande do Norte",
+            5485018
+        ],
+        [
+            "Roraima",
+            "Maranhão",
+            4289511
+        ],
+        [
+            "Roraima",
+            "Santa Catarina",
+            5071833
+        ],
+        [
+            "Roraima",
+            "Paraíba",
+            5467538
+        ],
+        [
+            "Roraima",
+            "Piauí",
+            4353529
+        ],
+        [
+            "Roraima",
+            "Mato Grosso",
+            3098700
+        ],
+        [
+            "Roraima",
+            "Mato Grosso do Sul",
+            3805768
+        ],
+        [
+            "Roraima",
+            "Sergipe",
+            5417322
+        ],
+        [
+            "Roraima",
+            "Amapá",
+            NaN
+        ],
+        [
+            "Roraima",
+            "Rondônia",
+            1639271
+        ],
+        [
+            "Roraima",
+            "Acre",
+            NaN
+        ],
+        [
+            "Roraima",
+            "Tocantins",
+            4164997
+        ]
+    ]
+}
