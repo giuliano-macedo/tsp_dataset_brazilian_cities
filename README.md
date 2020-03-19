@@ -4,3 +4,6 @@
 
 `states.csv` contains the latitude and longitude for each brazilian state capital
 `states.json` contains the name of the states and the distance in km of all possible combinations
+
+### Note
+The combinations distance assumes a straight line between the cities
