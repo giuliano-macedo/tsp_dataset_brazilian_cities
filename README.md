@@ -9,7 +9,7 @@
 assuming a line conecting the cities
 * `states_gmaps.json` contains the name of the states and the distance in km of all possible pairs
 with the information from google regarding its distance, some combination results in NaN
-(example: all combinations to or from Acre and Amapá), due to non existing routes to the location.
+(all combinations to or from Acre and Amapá), due to non existing routes to the location.
 * `states_merged.json` substitutes `states_gmaps.json` Nan from `states_line.json` distances
 
 ## Requirements
