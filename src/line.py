@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 from math import sin, cos, sqrt, atan2, radians
-from itertools import combinations
+from itertools import product
 def dist(lat1,lng1,lat2,lng2):
 
 	lat1=radians(lat1)
@@ -30,9 +30,9 @@ nodes=list(estados.estado)
 
 edges=[]
 
-for (estado1,lat1,lng1),(estado2,lat2,lng2) in combinations(estados.values,2):
-
+for (estado1,lat1,lng1),(estado2,lat2,lng2) in product(estados.values,estados.values):
+	if estado1==estado2:continue
 	edges.append((estado1,estado2,dist(lat1,lng1,lat2,lng2)))
 
-with open("states.json","w") as f:
+with open("states_line.json","w") as f:
 	json.dump({"nodes":nodes,"edges":edges},f,ensure_ascii=False,indent=4)

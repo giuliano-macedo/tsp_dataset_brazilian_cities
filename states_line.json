@@ -1,0 +1,3282 @@
+{
+    "nodes": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Minas Gerais",
+        "Rio Grande do Sul",
+        "Pernambuco",
+        "Ceará",
+        "Bahia",
+        "Paraná",
+        "Pará",
+        "Goiás",
+        "Amazonas",
+        "Espírito Santo",
+        "Alagoas",
+        "Rio Grande do Norte",
+        "Maranhão",
+        "Santa Catarina",
+        "Paraíba",
+        "Piauí",
+        "Mato Grosso",
+        "Mato Grosso do Sul",
+        "Sergipe",
+        "Amapá",
+        "Rondônia",
+        "Acre",
+        "Tocantins",
+        "Roraima"
+    ],
+    "edges": [
+        [
+            "São Paulo",
+            "Rio de Janeiro",
+            354.55732114895113
+        ],
+        [
+            "São Paulo",
+            "Minas Gerais",
+            492.56174503086083
+        ],
+        [
+            "São Paulo",
+            "Rio Grande do Sul",
+            852.7637021355068
+        ],
+        [
+            "São Paulo",
+            "Pernambuco",
+            2126.9512683647326
+        ],
+        [
+            "São Paulo",
+            "Ceará",
+            2366.8056442980705
+        ],
+        [
+            "São Paulo",
+            "Bahia",
+            1457.5325852189137
+        ],
+        [
+            "São Paulo",
+            "Paraná",
+            342.44351997770644
+        ],
+        [
+            "São Paulo",
+            "Pará",
+            2467.2658547350247
+        ],
+        [
+            "São Paulo",
+            "Goiás",
+            810.2581741905569
+        ],
+        [
+            "São Paulo",
+            "Amazonas",
+            2692.100334920603
+        ],
+        [
+            "São Paulo",
+            "Espírito Santo",
+            739.0780817445958
+        ],
+        [
+            "São Paulo",
+            "Alagoas",
+            1934.8966926677808
+        ],
+        [
+            "São Paulo",
+            "Rio Grande do Norte",
+            2323.038817472547
+        ],
+        [
+            "São Paulo",
+            "Maranhão",
+            2354.3120812136726
+        ],
+        [
+            "São Paulo",
+            "Santa Catarina",
+            485.99755083778155
+        ],
+        [
+            "São Paulo",
+            "Paraíba",
+            2219.3747721065556
+        ],
+        [
+            "São Paulo",
+            "Piauí",
+            2094.6754771826522
+        ],
+        [
+            "São Paulo",
+            "Mato Grosso",
+            1330.5076653383737
+        ],
+        [
+            "São Paulo",
+            "Mato Grosso do Sul",
+            893.5255978682686
+        ],
+        [
+            "São Paulo",
+            "Sergipe",
+            1731.0877013374218
+        ],
+        [
+            "São Paulo",
+            "Amapá",
+            2667.276248003263
+        ],
+        [
+            "São Paulo",
+            "Rondônia",
+            2468.5339408544323
+        ],
+        [
+            "São Paulo",
+            "Acre",
+            2708.5592700284105
+        ],
+        [
+            "São Paulo",
+            "Tocantins",
+            1492.1627781240088
+        ],
+        [
+            "São Paulo",
+            "Roraima",
+            3304.5366034004887
+        ],
+        [
+            "Rio de Janeiro",
+            "São Paulo",
+            354.55732114895113
+        ],
+        [
+            "Rio de Janeiro",
+            "Minas Gerais",
+            342.33792618067423
+        ],
+        [
+            "Rio de Janeiro",
+            "Rio Grande do Sul",
+            1121.0722756624782
+        ],
+        [
+            "Rio de Janeiro",
+            "Pernambuco",
+            1875.035468394407
+        ],
+        [
+            "Rio de Janeiro",
+            "Ceará",
+            2190.6470807390324
+        ],
+        [
+            "Rio de Janeiro",
+            "Bahia",
+            1215.4656870939993
+        ],
+        [
+            "Rio de Janeiro",
+            "Paraná",
+            677.7926225545051
+        ],
+        [
+            "Rio de Janeiro",
+            "Pará",
+            2455.1467504145908
+        ],
+        [
+            "Rio de Janeiro",
+            "Goiás",
+            938.0033280477644
+        ],
+        [
+            "Rio de Janeiro",
+            "Amazonas",
+            2850.9572008929763
+        ],
+        [
+            "Rio de Janeiro",
+            "Espírito Santo",
+            413.6047339235528
+        ],
+        [
+            "Rio de Janeiro",
+            "Alagoas",
+            1681.3337023744407
+        ],
+        [
+            "Rio de Janeiro",
+            "Rio Grande do Norte",
+            2090.563375169076
+        ],
+        [
+            "Rio de Janeiro",
+            "Maranhão",
+            2272.863474339
+        ],
+        [
+            "Rio de Janeiro",
+            "Santa Catarina",
+            742.6575834870264
+        ],
+        [
+            "Rio de Janeiro",
+            "Paraíba",
+            1973.8552265548574
+        ],
+        [
+            "Rio de Janeiro",
+            "Piauí",
+            1983.803733157728
+        ],
+        [
+            "Rio de Janeiro",
+            "Mato Grosso",
+            1577.6052559737007
+        ],
+        [
+            "Rio de Janeiro",
+            "Mato Grosso do Sul",
+            1208.7583824780613
+        ],
+        [
+            "Rio de Janeiro",
+            "Sergipe",
+            1486.3006103273858
+        ],
+        [
+            "Rio de Janeiro",
+            "Amapá",
+            2690.286145494203
+        ],
+        [
+            "Rio de Janeiro",
+            "Rondônia",
+            2710.2429869916523
+        ],
+        [
+            "Rio de Janeiro",
+            "Acre",
+            2984.087454273003
+        ],
+        [
+            "Rio de Janeiro",
+            "Tocantins",
+            1510.3881817177858
+        ],
+        [
+            "Rio de Janeiro",
+            "Roraima",
+            3431.9195708065317
+        ],
+        [
+            "Minas Gerais",
+            "São Paulo",
+            492.56174503086083
+        ],
+        [
+            "Minas Gerais",
+            "Rio de Janeiro",
+            342.33792618067423
+        ],
+        [
+            "Minas Gerais",
+            "Rio Grande do Sul",
+            1344.5679172488665
+        ],
+        [
+            "Minas Gerais",
+            "Pernambuco",
+            1635.0865147438715
+        ],
+        [
+            "Minas Gerais",
+            "Ceará",
+            1888.8345046816075
+        ],
+        [
+            "Minas Gerais",
+            "Bahia",
+            965.600359746823
+        ],
+        [
+            "Minas Gerais",
+            "Paraná",
+            826.0137475457184
+        ],
+        [
+            "Minas Gerais",
+            "Pará",
+            2113.0324825417565
+        ],
+        [
+            "Minas Gerais",
+            "Goiás",
+            670.440922272774
+        ],
+        [
+            "Minas Gerais",
+            "Amazonas",
+            2558.5204895928623
+        ],
+        [
+            "Minas Gerais",
+            "Espírito Santo",
+            373.43891684472493
+        ],
+        [
+            "Minas Gerais",
+            "Alagoas",
+            1443.4940668698068
+        ],
+        [
+            "Minas Gerais",
+            "Rio Grande do Norte",
+            1830.75644792348
+        ],
+        [
+            "Minas Gerais",
+            "Maranhão",
+            1935.6634768199751
+        ],
+        [
+            "Minas Gerais",
+            "Santa Catarina",
+            972.7094240921667
+        ],
+        [
+            "Minas Gerais",
+            "Paraíba",
+            1726.9408698424593
+        ],
+        [
+            "Minas Gerais",
+            "Piauí",
+            1652.9979177267428
+        ],
+        [
+            "Minas Gerais",
+            "Mato Grosso",
+            1376.313628126286
+        ],
+        [
+            "Minas Gerais",
+            "Mato Grosso do Sul",
+            1118.6329666660995
+        ],
+        [
+            "Minas Gerais",
+            "Sergipe",
+            1238.956224572238
+        ],
+        [
+            "Minas Gerais",
+            "Amapá",
+            2351.045347160776
+        ],
+        [
+            "Minas Gerais",
+            "Rondônia",
+            2482.0025714464578
+        ],
+        [
+            "Minas Gerais",
+            "Acre",
+            2790.4951632628577
+        ],
+        [
+            "Minas Gerais",
+            "Tocantins",
+            1174.123563091718
+        ],
+        [
+            "Minas Gerais",
+            "Roraima",
+            3120.7691484908246
+        ],
+        [
+            "Rio Grande do Sul",
+            "São Paulo",
+            852.7637021355068
+        ],
+        [
+            "Rio Grande do Sul",
+            "Rio de Janeiro",
+            1121.0722756624782
+        ],
+        [
+            "Rio Grande do Sul",
+            "Minas Gerais",
+            1344.5679172488665
+        ],
+        [
+            "Rio Grande do Sul",
+            "Pernambuco",
+            2975.5314063476944
+        ],
+        [
+            "Rio Grande do Sul",
+            "Ceará",
+            3212.5037475591585
+        ],
+        [
+            "Rio Grande do Sul",
+            "Bahia",
+            2306.9601067826334
+        ],
+        [
+            "Rio Grande do Sul",
+            "Paraná",
+            547.2123947591328
+        ],
+        [
+            "Rio Grande do Sul",
+            "Pará",
+            3194.1280931813017
+        ],
+        [
+            "Rio Grande do Sul",
+            "Goiás",
+            1495.2396538743888
+        ],
+        [
+            "Rio Grande do Sul",
+            "Amazonas",
+            3137.7001197859827
+        ],
+        [
+            "Rio Grande do Sul",
+            "Espírito Santo",
+            1534.3092343770325
+        ],
+        [
+            "Rio Grande do Sul",
+            "Alagoas",
+            2782.6680609695823
+        ],
+        [
+            "Rio Grande do Sul",
+            "Rio Grande do Norte",
+            3175.307749899722
+        ],
+        [
+            "Rio Grande do Sul",
+            "Maranhão",
+            3148.6860516267343
+        ],
+        [
+            "Rio Grande do Sul",
+            "Santa Catarina",
+            379.04591701705925
+        ],
+        [
+            "Rio Grande do Sul",
+            "Paraíba",
+            3069.619613680689
+        ],
+        [
+            "Rio Grande do Sul",
+            "Piauí",
+            2912.9513070582234
+        ],
+        [
+            "Rio Grande do Sul",
+            "Mato Grosso",
+            1686.1184392968623
+        ],
+        [
+            "Rio Grande do Sul",
+            "Mato Grosso do Sul",
+            1121.55466877352
+        ],
+        [
+            "Rio Grande do Sul",
+            "Sergipe",
+            2580.6625925375856
+        ],
+        [
+            "Rio Grande do Sul",
+            "Amapá",
+            3346.164787026214
+        ],
+        [
+            "Rio Grande do Sul",
+            "Rondônia",
+            2712.8196150424637
+        ],
+        [
+            "Rio Grande do Sul",
+            "Acre",
+            2820.3694512317916
+        ],
+        [
+            "Rio Grande do Sul",
+            "Tocantins",
+            2224.3106079250056
+        ],
+        [
+            "Rio Grande do Sul",
+            "Roraima",
+            3791.702725779238
+        ],
+        [
+            "Pernambuco",
+            "São Paulo",
+            2126.9512683647326
+        ],
+        [
+            "Pernambuco",
+            "Rio de Janeiro",
+            1875.035468394407
+        ],
+        [
+            "Pernambuco",
+            "Minas Gerais",
+            1635.0865147438715
+        ],
+        [
+            "Pernambuco",
+            "Rio Grande do Sul",
+            2975.5314063476944
+        ],
+        [
+            "Pernambuco",
+            "Ceará",
+            629.1085390836922
+        ],
+        [
+            "Pernambuco",
+            "Bahia",
+            669.4888559494809
+        ],
+        [
+            "Pernambuco",
+            "Paraná",
+            2460.0334237067095
+        ],
+        [
+            "Pernambuco",
+            "Pará",
+            1673.6635276180457
+        ],
+        [
+            "Pernambuco",
+            "Goiás",
+            1833.1725665157846
+        ],
+        [
+            "Pernambuco",
+            "Amazonas",
+            2830.3947141456642
+        ],
+        [
+            "Pernambuco",
+            "Espírito Santo",
+            1483.2171130069341
+        ],
+        [
+            "Pernambuco",
+            "Alagoas",
+            193.70238968527147
+        ],
+        [
+            "Pernambuco",
+            "Rio Grande do Norte",
+            257.83903500766695
+        ],
+        [
+            "Pernambuco",
+            "Maranhão",
+            1205.8200120492086
+        ],
+        [
+            "Pernambuco",
+            "Santa Catarina",
+            2598.939651117242
+        ],
+        [
+            "Pernambuco",
+            "Paraíba",
+            108.48092598315957
+        ],
+        [
+            "Pernambuco",
+            "Piauí",
+            929.9754922679418
+        ],
+        [
+            "Pernambuco",
+            "Mato Grosso",
+            2448.54626502086
+        ],
+        [
+            "Pernambuco",
+            "Mato Grosso do Sul",
+            2526.112205734435
+        ],
+        [
+            "Pernambuco",
+            "Sergipe",
+            396.44542391615494
+        ],
+        [
+            "Pernambuco",
+            "Amapá",
+            2003.1874080064795
+        ],
+        [
+            "Pernambuco",
+            "Rondônia",
+            3189.355450937051
+        ],
+        [
+            "Pernambuco",
+            "Acre",
+            3617.1664047574427
+        ],
+        [
+            "Pernambuco",
+            "Tocantins",
+            1487.8197970904334
+        ],
+        [
+            "Pernambuco",
+            "Roraima",
+            3103.051463194883
+        ],
+        [
+            "Ceará",
+            "São Paulo",
+            2366.8056442980705
+        ],
+        [
+            "Ceará",
+            "Rio de Janeiro",
+            2190.6470807390324
+        ],
+        [
+            "Ceará",
+            "Minas Gerais",
+            1888.8345046816075
+        ],
+        [
+            "Ceará",
+            "Rio Grande do Sul",
+            3212.5037475591585
+        ],
+        [
+            "Ceará",
+            "Pernambuco",
+            629.1085390836922
+        ],
+        [
+            "Ceará",
+            "Bahia",
+            1025.5979697117107
+        ],
+        [
+            "Ceará",
+            "Paraná",
+            2669.620934656756
+        ],
+        [
+            "Ceará",
+            "Pará",
+            1129.3229669588166
+        ],
+        [
+            "Ceará",
+            "Goiás",
+            1857.8315982922443
+        ],
+        [
+            "Ceará",
+            "Amazonas",
+            2379.3231282996876
+        ],
+        [
+            "Ceará",
+            "Espírito Santo",
+            1853.6521216904484
+        ],
+        [
+            "Ceará",
+            "Alagoas",
+            724.8056074697929
+        ],
+        [
+            "Ceará",
+            "Rio Grande do Norte",
+            433.6297041855798
+        ],
+        [
+            "Ceará",
+            "Maranhão",
+            646.2390357653213
+        ],
+        [
+            "Ceará",
+            "Santa Catarina",
+            2852.8031930904276
+        ],
+        [
+            "Ceará",
+            "Paraíba",
+            554.1665674340816
+        ],
+        [
+            "Ceará",
+            "Piauí",
+            489.1997622484519
+        ],
+        [
+            "Ceará",
+            "Mato Grosso",
+            2323.301888810802
+        ],
+        [
+            "Ceará",
+            "Mato Grosso do Sul",
+            2543.015110922859
+        ],
+        [
+            "Ceará",
+            "Sergipe",
+            811.4183220616605
+        ],
+        [
+            "Ceará",
+            "Amapá",
+            1448.5145129600917
+        ],
+        [
+            "Ceará",
+            "Rondônia",
+            2853.129686702234
+        ],
+        [
+            "Ceará",
+            "Acre",
+            3298.009997618019
+        ],
+        [
+            "Ceará",
+            "Tocantins",
+            1291.5471242944652
+        ],
+        [
+            "Ceará",
+            "Roraima",
+            2561.5167805979822
+        ],
+        [
+            "Bahia",
+            "São Paulo",
+            1457.5325852189137
+        ],
+        [
+            "Bahia",
+            "Rio de Janeiro",
+            1215.4656870939993
+        ],
+        [
+            "Bahia",
+            "Minas Gerais",
+            965.600359746823
+        ],
+        [
+            "Bahia",
+            "Rio Grande do Sul",
+            2306.9601067826334
+        ],
+        [
+            "Bahia",
+            "Pernambuco",
+            669.4888559494809
+        ],
+        [
+            "Bahia",
+            "Ceará",
+            1025.5979697117107
+        ],
+        [
+            "Bahia",
+            "Paraná",
+            1790.7944180607103
+        ],
+        [
+            "Bahia",
+            "Pará",
+            1689.7539807599837
+        ],
+        [
+            "Bahia",
+            "Goiás",
+            1235.5097312753667
+        ],
+        [
+            "Bahia",
+            "Amazonas",
+            2608.99657822529
+        ],
+        [
+            "Bahia",
+            "Espírito Santo",
+            842.2727077794834
+        ],
+        [
+            "Bahia",
+            "Alagoas",
+            478.3208570154082
+        ],
+        [
+            "Bahia",
+            "Rio Grande do Norte",
+            875.1219581304689
+        ],
+        [
+            "Bahia",
+            "Maranhão",
+            1325.733549704498
+        ],
+        [
+            "Bahia",
+            "Santa Catarina",
+            1931.1839478443073
+        ],
+        [
+            "Bahia",
+            "Paraíba",
+            762.7602075088987
+        ],
+        [
+            "Bahia",
+            "Piauí",
+            994.9888068839676
+        ],
+        [
+            "Bahia",
+            "Mato Grosso",
+            1919.0393063235636
+        ],
+        [
+            "Bahia",
+            "Mato Grosso do Sul",
+            1908.004636407462
+        ],
+        [
+            "Bahia",
+            "Sergipe",
+            273.70622663498153
+        ],
+        [
+            "Bahia",
+            "Amapá",
+            2003.2889487041282
+        ],
+        [
+            "Bahia",
+            "Rondônia",
+            2814.714210482236
+        ],
+        [
+            "Bahia",
+            "Acre",
+            3211.740923679222
+        ],
+        [
+            "Bahia",
+            "Tocantins",
+            1110.8385476381256
+        ],
+        [
+            "Bahia",
+            "Roraima",
+            3014.187439434373
+        ],
+        [
+            "Paraná",
+            "São Paulo",
+            342.44351997770644
+        ],
+        [
+            "Paraná",
+            "Rio de Janeiro",
+            677.7926225545051
+        ],
+        [
+            "Paraná",
+            "Minas Gerais",
+            826.0137475457184
+        ],
+        [
+            "Paraná",
+            "Rio Grande do Sul",
+            547.2123947591328
+        ],
+        [
+            "Paraná",
+            "Pernambuco",
+            2460.0334237067095
+        ],
+        [
+            "Paraná",
+            "Ceará",
+            2669.620934656756
+        ],
+        [
+            "Paraná",
+            "Bahia",
+            1790.7944180607103
+        ],
+        [
+            "Paraná",
+            "Pará",
+            2667.7008357396794
+        ],
+        [
+            "Paraná",
+            "Goiás",
+            967.7017694308656
+        ],
+        [
+            "Paraná",
+            "Amazonas",
+            2732.905297111911
+        ],
+        [
+            "Paraná",
+            "Espírito Santo",
+            1078.0793543244204
+        ],
+        [
+            "Paraná",
+            "Alagoas",
+            2269.0111435344206
+        ],
+        [
+            "Paraná",
+            "Rio Grande do Norte",
+            2649.3710483341647
+        ],
+        [
+            "Paraná",
+            "Maranhão",
+            2604.4542698698115
+        ],
+        [
+            "Paraná",
+            "Santa Catarina",
+            253.10771157253478
+        ],
+        [
+            "Paraná",
+            "Paraíba",
+            2550.3086986345256
+        ],
+        [
+            "Paraná",
+            "Piauí",
+            2365.8236608635693
+        ],
+        [
+            "Paraná",
+            "Mato Grosso",
+            1302.097896093674
+        ],
+        [
+            "Paraná",
+            "Mato Grosso do Sul",
+            774.3801387241771
+        ],
+        [
+            "Paraná",
+            "Sergipe",
+            2063.630873726056
+        ],
+        [
+            "Paraná",
+            "Amapá",
+            2837.2315684478576
+        ],
+        [
+            "Paraná",
+            "Rondônia",
+            2412.0741025182015
+        ],
+        [
+            "Paraná",
+            "Acre",
+            2599.2074966840214
+        ],
+        [
+            "Paraná",
+            "Tocantins",
+            1692.2308498363484
+        ],
+        [
+            "Paraná",
+            "Roraima",
+            3370.5118342190412
+        ],
+        [
+            "Pará",
+            "São Paulo",
+            2467.2658547350247
+        ],
+        [
+            "Pará",
+            "Rio de Janeiro",
+            2455.1467504145908
+        ],
+        [
+            "Pará",
+            "Minas Gerais",
+            2113.0324825417565
+        ],
+        [
+            "Pará",
+            "Rio Grande do Sul",
+            3194.1280931813017
+        ],
+        [
+            "Pará",
+            "Pernambuco",
+            1673.6635276180457
+        ],
+        [
+            "Pará",
+            "Ceará",
+            1129.3229669588166
+        ],
+        [
+            "Pará",
+            "Bahia",
+            1689.7539807599837
+        ],
+        [
+            "Pará",
+            "Paraná",
+            2667.7008357396794
+        ],
+        [
+            "Pará",
+            "Goiás",
+            1700.850548303953
+        ],
+        [
+            "Pará",
+            "Amazonas",
+            1293.3971616653575
+        ],
+        [
+            "Pará",
+            "Espírito Santo",
+            2277.0156557385
+        ],
+        [
+            "Pará",
+            "Alagoas",
+            1677.7348936063668
+        ],
+        [
+            "Pará",
+            "Rio Grande do Norte",
+            1546.303983560051
+        ],
+        [
+            "Pará",
+            "Maranhão",
+            483.2083885298415
+        ],
+        [
+            "Pará",
+            "Santa Catarina",
+            2906.4386669693567
+        ],
+        [
+            "Pará",
+            "Paraíba",
+            1634.0404385778293
+        ],
+        [
+            "Pará",
+            "Piauí",
+            751.5963015426846
+        ],
+        [
+            "Pará",
+            "Mato Grosso",
+            1778.3727923601607
+        ],
+        [
+            "Pará",
+            "Mato Grosso do Sul",
+            2216.034408675729
+        ],
+        [
+            "Pará",
+            "Sergipe",
+            1636.8346536056206
+        ],
+        [
+            "Pará",
+            "Amapá",
+            330.0136865511948
+        ],
+        [
+            "Pará",
+            "Rondônia",
+            1890.4126678067053
+        ],
+        [
+            "Pará",
+            "Acre",
+            2336.7918229228367
+        ],
+        [
+            "Pará",
+            "Tocantins",
+            977.6852748867132
+        ],
+        [
+            "Pará",
+            "Roraima",
+            1435.719677479651
+        ],
+        [
+            "Goiás",
+            "São Paulo",
+            810.2581741905569
+        ],
+        [
+            "Goiás",
+            "Rio de Janeiro",
+            938.0033280477644
+        ],
+        [
+            "Goiás",
+            "Minas Gerais",
+            670.440922272774
+        ],
+        [
+            "Goiás",
+            "Rio Grande do Sul",
+            1495.2396538743888
+        ],
+        [
+            "Goiás",
+            "Pernambuco",
+            1833.1725665157846
+        ],
+        [
+            "Goiás",
+            "Ceará",
+            1857.8315982922443
+        ],
+        [
+            "Goiás",
+            "Bahia",
+            1235.5097312753667
+        ],
+        [
+            "Goiás",
+            "Paraná",
+            967.7017694308656
+        ],
+        [
+            "Goiás",
+            "Pará",
+            1700.850548303953
+        ],
+        [
+            "Goiás",
+            "Amazonas",
+            1913.740172267338
+        ],
+        [
+            "Goiás",
+            "Espírito Santo",
+            1023.7029461849297
+        ],
+        [
+            "Goiás",
+            "Alagoas",
+            1667.307214282777
+        ],
+        [
+            "Goiás",
+            "Rio Grande do Norte",
+            1955.7455040410305
+        ],
+        [
+            "Goiás",
+            "Maranhão",
+            1673.0745088630997
+        ],
+        [
+            "Goiás",
+            "Santa Catarina",
+            1210.6138237157347
+        ],
+        [
+            "Goiás",
+            "Paraíba",
+            1897.8756546021107
+        ],
+        [
+            "Goiás",
+            "Piauí",
+            1475.5083177928555
+        ],
+        [
+            "Goiás",
+            "Mato Grosso",
+            736.089989959804
+        ],
+        [
+            "Goiás",
+            "Mato Grosso do Sul",
+            697.244049457179
+        ],
+        [
+            "Goiás",
+            "Sergipe",
+            1465.5323070873374
+        ],
+        [
+            "Goiás",
+            "Amapá",
+            1873.2842328046615
+        ],
+        [
+            "Goiás",
+            "Rondônia",
+            1813.7319493925036
+        ],
+        [
+            "Goiás",
+            "Acre",
+            2136.7671193609335
+        ],
+        [
+            "Goiás",
+            "Tocantins",
+            729.2800428201119
+        ],
+        [
+            "Goiás",
+            "Roraima",
+            2506.1400537406716
+        ],
+        [
+            "Amazonas",
+            "São Paulo",
+            2692.100334920603
+        ],
+        [
+            "Amazonas",
+            "Rio de Janeiro",
+            2850.9572008929763
+        ],
+        [
+            "Amazonas",
+            "Minas Gerais",
+            2558.5204895928623
+        ],
+        [
+            "Amazonas",
+            "Rio Grande do Sul",
+            3137.7001197859827
+        ],
+        [
+            "Amazonas",
+            "Pernambuco",
+            2830.3947141456642
+        ],
+        [
+            "Amazonas",
+            "Ceará",
+            2379.3231282996876
+        ],
+        [
+            "Amazonas",
+            "Bahia",
+            2608.99657822529
+        ],
+        [
+            "Amazonas",
+            "Paraná",
+            2732.905297111911
+        ],
+        [
+            "Amazonas",
+            "Pará",
+            1293.3971616653575
+        ],
+        [
+            "Amazonas",
+            "Goiás",
+            1913.740172267338
+        ],
+        [
+            "Amazonas",
+            "Espírito Santo",
+            2863.9645226821744
+        ],
+        [
+            "Amazonas",
+            "Alagoas",
+            2777.525073760207
+        ],
+        [
+            "Amazonas",
+            "Rio Grande do Norte",
+            2761.5356969275713
+        ],
+        [
+            "Amazonas",
+            "Maranhão",
+            1749.174539051333
+        ],
+        [
+            "Amazonas",
+            "Santa Catarina",
+            2983.591911421683
+        ],
+        [
+            "Amazonas",
+            "Paraíba",
+            2818.064006829707
+        ],
+        [
+            "Amazonas",
+            "Piauí",
+            1923.1914720104728
+        ],
+        [
+            "Amazonas",
+            "Mato Grosso",
+            1451.7559421692733
+        ],
+        [
+            "Amazonas",
+            "Mato Grosso do Sul",
+            2016.1623877822951
+        ],
+        [
+            "Amazonas",
+            "Sergipe",
+            2668.637082931146
+        ],
+        [
+            "Amazonas",
+            "Amapá",
+            1054.2846148552546
+        ],
+        [
+            "Amazonas",
+            "Rondônia",
+            762.2106857314558
+        ],
+        [
+            "Amazonas",
+            "Acre",
+            1151.2508357171837
+        ],
+        [
+            "Amazonas",
+            "Tocantins",
+            1517.3136630376036
+        ],
+        [
+            "Amazonas",
+            "Roraima",
+            662.1996758401623
+        ],
+        [
+            "Espírito Santo",
+            "São Paulo",
+            739.0780817445958
+        ],
+        [
+            "Espírito Santo",
+            "Rio de Janeiro",
+            413.6047339235528
+        ],
+        [
+            "Espírito Santo",
+            "Minas Gerais",
+            373.43891684472493
+        ],
+        [
+            "Espírito Santo",
+            "Rio Grande do Sul",
+            1534.3092343770325
+        ],
+        [
+            "Espírito Santo",
+            "Pernambuco",
+            1483.2171130069341
+        ],
+        [
+            "Espírito Santo",
+            "Ceará",
+            1853.6521216904484
+        ],
+        [
+            "Espírito Santo",
+            "Bahia",
+            842.2727077794834
+        ],
+        [
+            "Espírito Santo",
+            "Paraná",
+            1078.0793543244204
+        ],
+        [
+            "Espírito Santo",
+            "Pará",
+            2277.0156557385
+        ],
+        [
+            "Espírito Santo",
+            "Goiás",
+            1023.7029461849297
+        ],
+        [
+            "Espírito Santo",
+            "Amazonas",
+            2863.9645226821744
+        ],
+        [
+            "Espírito Santo",
+            "Alagoas",
+            1290.2755062838526
+        ],
+        [
+            "Espírito Santo",
+            "Rio Grande do Norte",
+            1709.8564713256192
+        ],
+        [
+            "Espírito Santo",
+            "Maranhão",
+            2025.5010374762633
+        ],
+        [
+            "Espírito Santo",
+            "Santa Catarina",
+            1156.177742031394
+        ],
+        [
+            "Espírito Santo",
+            "Paraíba",
+            1585.3283932910144
+        ],
+        [
+            "Espírito Santo",
+            "Piauí",
+            1713.914339065203
+        ],
+        [
+            "Espírito Santo",
+            "Mato Grosso",
+            1744.3170884337108
+        ],
+        [
+            "Espírito Santo",
+            "Mato Grosso do Sul",
+            1485.4018189962414
+        ],
+        [
+            "Espírito Santo",
+            "Sergipe",
+            1104.2482073761726
+        ],
+        [
+            "Espírito Santo",
+            "Amapá",
+            2545.4959007137127
+        ],
+        [
+            "Espírito Santo",
+            "Rondônia",
+            2836.501769539807
+        ],
+        [
+            "Espírito Santo",
+            "Acre",
+            3156.357940136933
+        ],
+        [
+            "Espírito Santo",
+            "Tocantins",
+            1406.6866483297217
+        ],
+        [
+            "Espírito Santo",
+            "Roraima",
+            3395.7279215594885
+        ],
+        [
+            "Alagoas",
+            "São Paulo",
+            1934.8966926677808
+        ],
+        [
+            "Alagoas",
+            "Rio de Janeiro",
+            1681.3337023744407
+        ],
+        [
+            "Alagoas",
+            "Minas Gerais",
+            1443.4940668698068
+        ],
+        [
+            "Alagoas",
+            "Rio Grande do Sul",
+            2782.6680609695823
+        ],
+        [
+            "Alagoas",
+            "Pernambuco",
+            193.70238968527147
+        ],
+        [
+            "Alagoas",
+            "Ceará",
+            724.8056074697929
+        ],
+        [
+            "Alagoas",
+            "Bahia",
+            478.3208570154082
+        ],
+        [
+            "Alagoas",
+            "Paraná",
+            2269.0111435344206
+        ],
+        [
+            "Alagoas",
+            "Pará",
+            1677.7348936063668
+        ],
+        [
+            "Alagoas",
+            "Goiás",
+            1667.307214282777
+        ],
+        [
+            "Alagoas",
+            "Amazonas",
+            2777.525073760207
+        ],
+        [
+            "Alagoas",
+            "Espírito Santo",
+            1290.2755062838526
+        ],
+        [
+            "Alagoas",
+            "Rio Grande do Norte",
+            430.5226313721704
+        ],
+        [
+            "Alagoas",
+            "Maranhão",
+            1230.681202751693
+        ],
+        [
+            "Alagoas",
+            "Santa Catarina",
+            2405.811638959309
+        ],
+        [
+            "Alagoas",
+            "Paraíba",
+            295.51286967814815
+        ],
+        [
+            "Alagoas",
+            "Piauí",
+            926.1867914053566
+        ],
+        [
+            "Alagoas",
+            "Mato Grosso",
+            2304.94112844752
+        ],
+        [
+            "Alagoas",
+            "Mato Grosso do Sul",
+            2355.8026374112583
+        ],
+        [
+            "Alagoas",
+            "Sergipe",
+            208.36277212565508
+        ],
+        [
+            "Alagoas",
+            "Amapá",
+            2007.2908172386435
+        ],
+        [
+            "Alagoas",
+            "Rondônia",
+            3093.837617563984
+        ],
+        [
+            "Alagoas",
+            "Acre",
+            3513.996165050731
+        ],
+        [
+            "Alagoas",
+            "Tocantins",
+            1377.5065672105027
+        ],
+        [
+            "Alagoas",
+            "Roraima",
+            3090.0435021536196
+        ],
+        [
+            "Rio Grande do Norte",
+            "São Paulo",
+            2323.038817472547
+        ],
+        [
+            "Rio Grande do Norte",
+            "Rio de Janeiro",
+            2090.563375169076
+        ],
+        [
+            "Rio Grande do Norte",
+            "Minas Gerais",
+            1830.75644792348
+        ],
+        [
+            "Rio Grande do Norte",
+            "Rio Grande do Sul",
+            3175.307749899722
+        ],
+        [
+            "Rio Grande do Norte",
+            "Pernambuco",
+            257.83903500766695
+        ],
+        [
+            "Rio Grande do Norte",
+            "Ceará",
+            433.6297041855798
+        ],
+        [
+            "Rio Grande do Norte",
+            "Bahia",
+            875.1219581304689
+        ],
+        [
+            "Rio Grande do Norte",
+            "Paraná",
+            2649.3710483341647
+        ],
+        [
+            "Rio Grande do Norte",
+            "Pará",
+            1546.303983560051
+        ],
+        [
+            "Rio Grande do Norte",
+            "Goiás",
+            1955.7455040410305
+        ],
+        [
+            "Rio Grande do Norte",
+            "Amazonas",
+            2761.5356969275713
+        ],
+        [
+            "Rio Grande do Norte",
+            "Espírito Santo",
+            1709.8564713256192
+        ],
+        [
+            "Rio Grande do Norte",
+            "Alagoas",
+            430.5226313721704
+        ],
+        [
+            "Rio Grande do Norte",
+            "Maranhão",
+            1064.9811861512642
+        ],
+        [
+            "Rio Grande do Norte",
+            "Santa Catarina",
+            2801.83773484932
+        ],
+        [
+            "Rio Grande do Norte",
+            "Paraíba",
+            152.35061255953076
+        ],
+        [
+            "Rio Grande do Norte",
+            "Piauí",
+            838.3579936742035
+        ],
+        [
+            "Rio Grande do Norte",
+            "Mato Grosso",
+            2522.115814784414
+        ],
+        [
+            "Rio Grande do Norte",
+            "Mato Grosso do Sul",
+            2652.9718745920554
+        ],
+        [
+            "Rio Grande do Norte",
+            "Sergipe",
+            605.8910998701972
+        ],
+        [
+            "Rio Grande do Norte",
+            "Amapá",
+            1870.8417963437707
+        ],
+        [
+            "Rio Grande do Norte",
+            "Rondônia",
+            3178.5546539359034
+        ],
+        [
+            "Rio Grande do Norte",
+            "Acre",
+            3615.830865070657
+        ],
+        [
+            "Rio Grande do Norte",
+            "Tocantins",
+            1519.8572273230125
+        ],
+        [
+            "Rio Grande do Norte",
+            "Roraima",
+            2981.9472429967727
+        ],
+        [
+            "Maranhão",
+            "São Paulo",
+            2354.3120812136726
+        ],
+        [
+            "Maranhão",
+            "Rio de Janeiro",
+            2272.863474339
+        ],
+        [
+            "Maranhão",
+            "Minas Gerais",
+            1935.6634768199751
+        ],
+        [
+            "Maranhão",
+            "Rio Grande do Sul",
+            3148.6860516267343
+        ],
+        [
+            "Maranhão",
+            "Pernambuco",
+            1205.8200120492086
+        ],
+        [
+            "Maranhão",
+            "Ceará",
+            646.2390357653213
+        ],
+        [
+            "Maranhão",
+            "Bahia",
+            1325.733549704498
+        ],
+        [
+            "Maranhão",
+            "Paraná",
+            2604.4542698698115
+        ],
+        [
+            "Maranhão",
+            "Pará",
+            483.2083885298415
+        ],
+        [
+            "Maranhão",
+            "Goiás",
+            1673.0745088630997
+        ],
+        [
+            "Maranhão",
+            "Amazonas",
+            1749.174539051333
+        ],
+        [
+            "Maranhão",
+            "Espírito Santo",
+            2025.5010374762633
+        ],
+        [
+            "Maranhão",
+            "Alagoas",
+            1230.681202751693
+        ],
+        [
+            "Maranhão",
+            "Rio Grande do Norte",
+            1064.9811861512642
+        ],
+        [
+            "Maranhão",
+            "Santa Catarina",
+            2824.341927499618
+        ],
+        [
+            "Maranhão",
+            "Paraíba",
+            1158.7387740535364
+        ],
+        [
+            "Maranhão",
+            "Piauí",
+            330.8846070009889
+        ],
+        [
+            "Maranhão",
+            "Mato Grosso",
+            1945.6867859557751
+        ],
+        [
+            "Maranhão",
+            "Mato Grosso do Sul",
+            2289.1719575923444
+        ],
+        [
+            "Maranhão",
+            "Sergipe",
+            1221.3291642842212
+        ],
+        [
+            "Maranhão",
+            "Amapá",
+            805.8662976872716
+        ],
+        [
+            "Maranhão",
+            "Rondônia",
+            2280.123935081785
+        ],
+        [
+            "Maranhão",
+            "Acre",
+            2728.920359482248
+        ],
+        [
+            "Maranhão",
+            "Tocantins",
+            966.9629523029631
+        ],
+        [
+            "Maranhão",
+            "Roraima",
+            1917.5294901699356
+        ],
+        [
+            "Santa Catarina",
+            "São Paulo",
+            485.99755083778155
+        ],
+        [
+            "Santa Catarina",
+            "Rio de Janeiro",
+            742.6575834870264
+        ],
+        [
+            "Santa Catarina",
+            "Minas Gerais",
+            972.7094240921667
+        ],
+        [
+            "Santa Catarina",
+            "Rio Grande do Sul",
+            379.04591701705925
+        ],
+        [
+            "Santa Catarina",
+            "Pernambuco",
+            2598.939651117242
+        ],
+        [
+            "Santa Catarina",
+            "Ceará",
+            2852.8031930904276
+        ],
+        [
+            "Santa Catarina",
+            "Bahia",
+            1931.1839478443073
+        ],
+        [
+            "Santa Catarina",
+            "Paraná",
+            253.10771157253478
+        ],
+        [
+            "Santa Catarina",
+            "Pará",
+            2906.4386669693567
+        ],
+        [
+            "Santa Catarina",
+            "Goiás",
+            1210.6138237157347
+        ],
+        [
+            "Santa Catarina",
+            "Amazonas",
+            2983.591911421683
+        ],
+        [
+            "Santa Catarina",
+            "Espírito Santo",
+            1156.177742031394
+        ],
+        [
+            "Santa Catarina",
+            "Alagoas",
+            2405.811638959309
+        ],
+        [
+            "Santa Catarina",
+            "Rio Grande do Norte",
+            2801.83773484932
+        ],
+        [
+            "Santa Catarina",
+            "Maranhão",
+            2824.341927499618
+        ],
+        [
+            "Santa Catarina",
+            "Paraíba",
+            2693.936186968721
+        ],
+        [
+            "Santa Catarina",
+            "Piauí",
+            2573.7670038489837
+        ],
+        [
+            "Santa Catarina",
+            "Mato Grosso",
+            1547.1113682693617
+        ],
+        [
+            "Santa Catarina",
+            "Mato Grosso do Sul",
+            1005.8798165455265
+        ],
+        [
+            "Santa Catarina",
+            "Sergipe",
+            2204.785491207273
+        ],
+        [
+            "Santa Catarina",
+            "Amapá",
+            3083.247979884328
+        ],
+        [
+            "Santa Catarina",
+            "Rondônia",
+            2644.9367565611624
+        ],
+        [
+            "Santa Catarina",
+            "Acre",
+            2812.9678545527936
+        ],
+        [
+            "Santa Catarina",
+            "Tocantins",
+            1929.1342759067516
+        ],
+        [
+            "Santa Catarina",
+            "Roraima",
+            3622.802109130257
+        ],
+        [
+            "Paraíba",
+            "São Paulo",
+            2219.3747721065556
+        ],
+        [
+            "Paraíba",
+            "Rio de Janeiro",
+            1973.8552265548574
+        ],
+        [
+            "Paraíba",
+            "Minas Gerais",
+            1726.9408698424593
+        ],
+        [
+            "Paraíba",
+            "Rio Grande do Sul",
+            3069.619613680689
+        ],
+        [
+            "Paraíba",
+            "Pernambuco",
+            108.48092598315957
+        ],
+        [
+            "Paraíba",
+            "Ceará",
+            554.1665674340816
+        ],
+        [
+            "Paraíba",
+            "Bahia",
+            762.7602075088987
+        ],
+        [
+            "Paraíba",
+            "Paraná",
+            2550.3086986345256
+        ],
+        [
+            "Paraíba",
+            "Pará",
+            1634.0404385778293
+        ],
+        [
+            "Paraíba",
+            "Goiás",
+            1897.8756546021107
+        ],
+        [
+            "Paraíba",
+            "Amazonas",
+            2818.064006829707
+        ],
+        [
+            "Paraíba",
+            "Espírito Santo",
+            1585.3283932910144
+        ],
+        [
+            "Paraíba",
+            "Alagoas",
+            295.51286967814815
+        ],
+        [
+            "Paraíba",
+            "Rio Grande do Norte",
+            152.35061255953076
+        ],
+        [
+            "Paraíba",
+            "Maranhão",
+            1158.7387740535364
+        ],
+        [
+            "Paraíba",
+            "Santa Catarina",
+            2693.936186968721
+        ],
+        [
+            "Paraíba",
+            "Piauí",
+            902.1517964075977
+        ],
+        [
+            "Paraíba",
+            "Mato Grosso",
+            2494.816355775344
+        ],
+        [
+            "Paraíba",
+            "Mato Grosso do Sul",
+            2593.3640130283443
+        ],
+        [
+            "Paraíba",
+            "Sergipe",
+            489.1779522716141
+        ],
+        [
+            "Paraíba",
+            "Amapá",
+            1962.028419095162
+        ],
+        [
+            "Paraíba",
+            "Rondônia",
+            3201.9598235964636
+        ],
+        [
+            "Paraíba",
+            "Acre",
+            3634.0392204772747
+        ],
+        [
+            "Paraíba",
+            "Tocantins",
+            1515.1765522838102
+        ],
+        [
+            "Paraíba",
+            "Roraima",
+            3068.1141754091595
+        ],
+        [
+            "Piauí",
+            "São Paulo",
+            2094.6754771826522
+        ],
+        [
+            "Piauí",
+            "Rio de Janeiro",
+            1983.803733157728
+        ],
+        [
+            "Piauí",
+            "Minas Gerais",
+            1652.9979177267428
+        ],
+        [
+            "Piauí",
+            "Rio Grande do Sul",
+            2912.9513070582234
+        ],
+        [
+            "Piauí",
+            "Pernambuco",
+            929.9754922679418
+        ],
+        [
+            "Piauí",
+            "Ceará",
+            489.1997622484519
+        ],
+        [
+            "Piauí",
+            "Bahia",
+            994.9888068839676
+        ],
+        [
+            "Piauí",
+            "Paraná",
+            2365.8236608635693
+        ],
+        [
+            "Piauí",
+            "Pará",
+            751.5963015426846
+        ],
+        [
+            "Piauí",
+            "Goiás",
+            1475.5083177928555
+        ],
+        [
+            "Piauí",
+            "Amazonas",
+            1923.1914720104728
+        ],
+        [
+            "Piauí",
+            "Espírito Santo",
+            1713.914339065203
+        ],
+        [
+            "Piauí",
+            "Alagoas",
+            926.1867914053566
+        ],
+        [
+            "Piauí",
+            "Rio Grande do Norte",
+            838.3579936742035
+        ],
+        [
+            "Piauí",
+            "Maranhão",
+            330.8846070009889
+        ],
+        [
+            "Piauí",
+            "Santa Catarina",
+            2573.7670038489837
+        ],
+        [
+            "Piauí",
+            "Paraíba",
+            902.1517964075977
+        ],
+        [
+            "Piauí",
+            "Mato Grosso",
+            1862.8757095876738
+        ],
+        [
+            "Piauí",
+            "Mato Grosso do Sul",
+            2134.010378014556
+        ],
+        [
+            "Piauí",
+            "Sergipe",
+            897.3465471482307
+        ],
+        [
+            "Piauí",
+            "Amapá",
+            1081.3337680458824
+        ],
+        [
+            "Piauí",
+            "Rondônia",
+            2366.620621478802
+        ],
+        [
+            "Piauí",
+            "Acre",
+            2810.436444637106
+        ],
+        [
+            "Piauí",
+            "Tocantins",
+            834.0149074213297
+        ],
+        [
+            "Piauí",
+            "Roraima",
+            2173.5610541651395
+        ],
+        [
+            "Mato Grosso",
+            "São Paulo",
+            1330.5076653383737
+        ],
+        [
+            "Mato Grosso",
+            "Rio de Janeiro",
+            1577.6052559737007
+        ],
+        [
+            "Mato Grosso",
+            "Minas Gerais",
+            1376.313628126286
+        ],
+        [
+            "Mato Grosso",
+            "Rio Grande do Sul",
+            1686.1184392968623
+        ],
+        [
+            "Mato Grosso",
+            "Pernambuco",
+            2448.54626502086
+        ],
+        [
+            "Mato Grosso",
+            "Ceará",
+            2323.301888810802
+        ],
+        [
+            "Mato Grosso",
+            "Bahia",
+            1919.0393063235636
+        ],
+        [
+            "Mato Grosso",
+            "Paraná",
+            1302.097896093674
+        ],
+        [
+            "Mato Grosso",
+            "Pará",
+            1778.3727923601607
+        ],
+        [
+            "Mato Grosso",
+            "Goiás",
+            736.089989959804
+        ],
+        [
+            "Mato Grosso",
+            "Amazonas",
+            1451.7559421692733
+        ],
+        [
+            "Mato Grosso",
+            "Espírito Santo",
+            1744.3170884337108
+        ],
+        [
+            "Mato Grosso",
+            "Alagoas",
+            2304.94112844752
+        ],
+        [
+            "Mato Grosso",
+            "Rio Grande do Norte",
+            2522.115814784414
+        ],
+        [
+            "Mato Grosso",
+            "Maranhão",
+            1945.6867859557751
+        ],
+        [
+            "Mato Grosso",
+            "Santa Catarina",
+            1547.1113682693617
+        ],
+        [
+            "Mato Grosso",
+            "Paraíba",
+            2494.816355775344
+        ],
+        [
+            "Mato Grosso",
+            "Piauí",
+            1862.8757095876738
+        ],
+        [
+            "Mato Grosso",
+            "Mato Grosso do Sul",
+            564.6141127232531
+        ],
+        [
+            "Mato Grosso",
+            "Sergipe",
+            2116.9907875718827
+        ],
+        [
+            "Mato Grosso",
+            "Amapá",
+            1821.4754868781818
+        ],
+        [
+            "Mato Grosso",
+            "Rondônia",
+            1138.619776271512
+        ],
+        [
+            "Mato Grosso",
+            "Acre",
+            1414.80244038932
+        ],
+        [
+            "Mato Grosso",
+            "Tocantins",
+            1032.347927178995
+        ],
+        [
+            "Mato Grosso",
+            "Roraima",
+            2106.2584641384037
+        ],
+        [
+            "Mato Grosso do Sul",
+            "São Paulo",
+            893.5255978682686
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Rio de Janeiro",
+            1208.7583824780613
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Minas Gerais",
+            1118.6329666660995
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Rio Grande do Sul",
+            1121.55466877352
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Pernambuco",
+            2526.112205734435
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Ceará",
+            2543.015110922859
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Bahia",
+            1908.004636407462
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Paraná",
+            774.3801387241771
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Pará",
+            2216.034408675729
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Goiás",
+            697.244049457179
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Amazonas",
+            2016.1623877822951
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Espírito Santo",
+            1485.4018189962414
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Alagoas",
+            2355.8026374112583
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Rio Grande do Norte",
+            2652.9718745920554
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Maranhão",
+            2289.1719575923444
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Santa Catarina",
+            1005.8798165455265
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Paraíba",
+            2593.3640130283443
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Piauí",
+            2134.010378014556
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Mato Grosso",
+            564.6141127232531
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Sergipe",
+            2151.1110672775267
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Amapá",
+            2311.145608095475
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Rondônia",
+            1639.4472836196176
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Acre",
+            1831.5508738483961
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Tocantins",
+            1322.7307160791822
+        ],
+        [
+            "Mato Grosso do Sul",
+            "Roraima",
+            2670.715265895361
+        ],
+        [
+            "Sergipe",
+            "São Paulo",
+            1731.0877013374218
+        ],
+        [
+            "Sergipe",
+            "Rio de Janeiro",
+            1486.3006103273858
+        ],
+        [
+            "Sergipe",
+            "Minas Gerais",
+            1238.956224572238
+        ],
+        [
+            "Sergipe",
+            "Rio Grande do Sul",
+            2580.6625925375856
+        ],
+        [
+            "Sergipe",
+            "Pernambuco",
+            396.44542391615494
+        ],
+        [
+            "Sergipe",
+            "Ceará",
+            811.4183220616605
+        ],
+        [
+            "Sergipe",
+            "Bahia",
+            273.70622663498153
+        ],
+        [
+            "Sergipe",
+            "Paraná",
+            2063.630873726056
+        ],
+        [
+            "Sergipe",
+            "Pará",
+            1636.8346536056206
+        ],
+        [
+            "Sergipe",
+            "Goiás",
+            1465.5323070873374
+        ],
+        [
+            "Sergipe",
+            "Amazonas",
+            2668.637082931146
+        ],
+        [
+            "Sergipe",
+            "Espírito Santo",
+            1104.2482073761726
+        ],
+        [
+            "Sergipe",
+            "Alagoas",
+            208.36277212565508
+        ],
+        [
+            "Sergipe",
+            "Rio Grande do Norte",
+            605.8910998701972
+        ],
+        [
+            "Sergipe",
+            "Maranhão",
+            1221.3291642842212
+        ],
+        [
+            "Sergipe",
+            "Santa Catarina",
+            2204.785491207273
+        ],
+        [
+            "Sergipe",
+            "Paraíba",
+            489.1779522716141
+        ],
+        [
+            "Sergipe",
+            "Piauí",
+            897.3465471482307
+        ],
+        [
+            "Sergipe",
+            "Mato Grosso",
+            2116.9907875718827
+        ],
+        [
+            "Sergipe",
+            "Mato Grosso do Sul",
+            2151.1110672775267
+        ],
+        [
+            "Sergipe",
+            "Amapá",
+            1962.2740316451768
+        ],
+        [
+            "Sergipe",
+            "Rondônia",
+            2943.793883082132
+        ],
+        [
+            "Sergipe",
+            "Acre",
+            3356.322631518431
+        ],
+        [
+            "Sergipe",
+            "Tocantins",
+            1223.266432655894
+        ],
+        [
+            "Sergipe",
+            "Roraima",
+            3019.7768028702394
+        ],
+        [
+            "Amapá",
+            "São Paulo",
+            2667.276248003263
+        ],
+        [
+            "Amapá",
+            "Rio de Janeiro",
+            2690.286145494203
+        ],
+        [
+            "Amapá",
+            "Minas Gerais",
+            2351.045347160776
+        ],
+        [
+            "Amapá",
+            "Rio Grande do Sul",
+            3346.164787026214
+        ],
+        [
+            "Amapá",
+            "Pernambuco",
+            2003.1874080064795
+        ],
+        [
+            "Amapá",
+            "Ceará",
+            1448.5145129600917
+        ],
+        [
+            "Amapá",
+            "Bahia",
+            2003.2889487041282
+        ],
+        [
+            "Amapá",
+            "Paraná",
+            2837.2315684478576
+        ],
+        [
+            "Amapá",
+            "Pará",
+            330.0136865511948
+        ],
+        [
+            "Amapá",
+            "Goiás",
+            1873.2842328046615
+        ],
+        [
+            "Amapá",
+            "Amazonas",
+            1054.2846148552546
+        ],
+        [
+            "Amapá",
+            "Espírito Santo",
+            2545.4959007137127
+        ],
+        [
+            "Amapá",
+            "Alagoas",
+            2007.2908172386435
+        ],
+        [
+            "Amapá",
+            "Rio Grande do Norte",
+            1870.8417963437707
+        ],
+        [
+            "Amapá",
+            "Maranhão",
+            805.8662976872716
+        ],
+        [
+            "Amapá",
+            "Santa Catarina",
+            3083.247979884328
+        ],
+        [
+            "Amapá",
+            "Paraíba",
+            1962.028419095162
+        ],
+        [
+            "Amapá",
+            "Piauí",
+            1081.3337680458824
+        ],
+        [
+            "Amapá",
+            "Mato Grosso",
+            1821.4754868781818
+        ],
+        [
+            "Amapá",
+            "Mato Grosso do Sul",
+            2311.145608095475
+        ],
+        [
+            "Amapá",
+            "Sergipe",
+            1962.2740316451768
+        ],
+        [
+            "Amapá",
+            "Rondônia",
+            1726.6740753491322
+        ],
+        [
+            "Amapá",
+            "Acre",
+            2161.73159639038
+        ],
+        [
+            "Amapá",
+            "Tocantins",
+            1182.5771614769199
+        ],
+        [
+            "Amapá",
+            "Roraima",
+            1113.0633592635054
+        ],
+        [
+            "Rondônia",
+            "São Paulo",
+            2468.5339408544323
+        ],
+        [
+            "Rondônia",
+            "Rio de Janeiro",
+            2710.2429869916523
+        ],
+        [
+            "Rondônia",
+            "Minas Gerais",
+            2482.0025714464578
+        ],
+        [
+            "Rondônia",
+            "Rio Grande do Sul",
+            2712.8196150424637
+        ],
+        [
+            "Rondônia",
+            "Pernambuco",
+            3189.355450937051
+        ],
+        [
+            "Rondônia",
+            "Ceará",
+            2853.129686702234
+        ],
+        [
+            "Rondônia",
+            "Bahia",
+            2814.714210482236
+        ],
+        [
+            "Rondônia",
+            "Paraná",
+            2412.0741025182015
+        ],
+        [
+            "Rondônia",
+            "Pará",
+            1890.4126678067053
+        ],
+        [
+            "Rondônia",
+            "Goiás",
+            1813.7319493925036
+        ],
+        [
+            "Rondônia",
+            "Amazonas",
+            762.2106857314558
+        ],
+        [
+            "Rondônia",
+            "Espírito Santo",
+            2836.501769539807
+        ],
+        [
+            "Rondônia",
+            "Alagoas",
+            3093.837617563984
+        ],
+        [
+            "Rondônia",
+            "Rio Grande do Norte",
+            3178.5546539359034
+        ],
+        [
+            "Rondônia",
+            "Maranhão",
+            2280.123935081785
+        ],
+        [
+            "Rondônia",
+            "Santa Catarina",
+            2644.9367565611624
+        ],
+        [
+            "Rondônia",
+            "Paraíba",
+            3201.9598235964636
+        ],
+        [
+            "Rondônia",
+            "Piauí",
+            2366.620621478802
+        ],
+        [
+            "Rondônia",
+            "Mato Grosso",
+            1138.619776271512
+        ],
+        [
+            "Rondônia",
+            "Mato Grosso do Sul",
+            1639.4472836196176
+        ],
+        [
+            "Rondônia",
+            "Sergipe",
+            2943.793883082132
+        ],
+        [
+            "Rondônia",
+            "Amapá",
+            1726.6740753491322
+        ],
+        [
+            "Rondônia",
+            "Acre",
+            448.8945858688469
+        ],
+        [
+            "Rondônia",
+            "Tocantins",
+            1720.5361323405907
+        ],
+        [
+            "Rondônia",
+            "Roraima",
+            1335.5440894706862
+        ],
+        [
+            "Acre",
+            "São Paulo",
+            2708.5592700284105
+        ],
+        [
+            "Acre",
+            "Rio de Janeiro",
+            2984.087454273003
+        ],
+        [
+            "Acre",
+            "Minas Gerais",
+            2790.4951632628577
+        ],
+        [
+            "Acre",
+            "Rio Grande do Sul",
+            2820.3694512317916
+        ],
+        [
+            "Acre",
+            "Pernambuco",
+            3617.1664047574427
+        ],
+        [
+            "Acre",
+            "Ceará",
+            3298.009997618019
+        ],
+        [
+            "Acre",
+            "Bahia",
+            3211.740923679222
+        ],
+        [
+            "Acre",
+            "Paraná",
+            2599.2074966840214
+        ],
+        [
+            "Acre",
+            "Pará",
+            2336.7918229228367
+        ],
+        [
+            "Acre",
+            "Goiás",
+            2136.7671193609335
+        ],
+        [
+            "Acre",
+            "Amazonas",
+            1151.2508357171837
+        ],
+        [
+            "Acre",
+            "Espírito Santo",
+            3156.357940136933
+        ],
+        [
+            "Acre",
+            "Alagoas",
+            3513.996165050731
+        ],
+        [
+            "Acre",
+            "Rio Grande do Norte",
+            3615.830865070657
+        ],
+        [
+            "Acre",
+            "Maranhão",
+            2728.920359482248
+        ],
+        [
+            "Acre",
+            "Santa Catarina",
+            2812.9678545527936
+        ],
+        [
+            "Acre",
+            "Paraíba",
+            3634.0392204772747
+        ],
+        [
+            "Acre",
+            "Piauí",
+            2810.436444637106
+        ],
+        [
+            "Acre",
+            "Mato Grosso",
+            1414.80244038932
+        ],
+        [
+            "Acre",
+            "Mato Grosso do Sul",
+            1831.5508738483961
+        ],
+        [
+            "Acre",
+            "Sergipe",
+            3356.322631518431
+        ],
+        [
+            "Acre",
+            "Amapá",
+            2161.73159639038
+        ],
+        [
+            "Acre",
+            "Rondônia",
+            448.8945858688469
+        ],
+        [
+            "Acre",
+            "Tocantins",
+            2136.5804662536266
+        ],
+        [
+            "Acre",
+            "Roraima",
+            1626.6967733642027
+        ],
+        [
+            "Tocantins",
+            "São Paulo",
+            1492.1627781240088
+        ],
+        [
+            "Tocantins",
+            "Rio de Janeiro",
+            1510.3881817177858
+        ],
+        [
+            "Tocantins",
+            "Minas Gerais",
+            1174.123563091718
+        ],
+        [
+            "Tocantins",
+            "Rio Grande do Sul",
+            2224.3106079250056
+        ],
+        [
+            "Tocantins",
+            "Pernambuco",
+            1487.8197970904334
+        ],
+        [
+            "Tocantins",
+            "Ceará",
+            1291.5471242944652
+        ],
+        [
+            "Tocantins",
+            "Bahia",
+            1110.8385476381256
+        ],
+        [
+            "Tocantins",
+            "Paraná",
+            1692.2308498363484
+        ],
+        [
+            "Tocantins",
+            "Pará",
+            977.6852748867132
+        ],
+        [
+            "Tocantins",
+            "Goiás",
+            729.2800428201119
+        ],
+        [
+            "Tocantins",
+            "Amazonas",
+            1517.3136630376036
+        ],
+        [
+            "Tocantins",
+            "Espírito Santo",
+            1406.6866483297217
+        ],
+        [
+            "Tocantins",
+            "Alagoas",
+            1377.5065672105027
+        ],
+        [
+            "Tocantins",
+            "Rio Grande do Norte",
+            1519.8572273230125
+        ],
+        [
+            "Tocantins",
+            "Maranhão",
+            966.9629523029631
+        ],
+        [
+            "Tocantins",
+            "Santa Catarina",
+            1929.1342759067516
+        ],
+        [
+            "Tocantins",
+            "Paraíba",
+            1515.1765522838102
+        ],
+        [
+            "Tocantins",
+            "Piauí",
+            834.0149074213297
+        ],
+        [
+            "Tocantins",
+            "Mato Grosso",
+            1032.347927178995
+        ],
+        [
+            "Tocantins",
+            "Mato Grosso do Sul",
+            1322.7307160791822
+        ],
+        [
+            "Tocantins",
+            "Sergipe",
+            1223.266432655894
+        ],
+        [
+            "Tocantins",
+            "Amapá",
+            1182.5771614769199
+        ],
+        [
+            "Tocantins",
+            "Rondônia",
+            1720.5361323405907
+        ],
+        [
+            "Tocantins",
+            "Acre",
+            2136.5804662536266
+        ],
+        [
+            "Tocantins",
+            "Roraima",
+            1996.9016526925002
+        ],
+        [
+            "Roraima",
+            "São Paulo",
+            3304.5366034004887
+        ],
+        [
+            "Roraima",
+            "Rio de Janeiro",
+            3431.9195708065317
+        ],
+        [
+            "Roraima",
+            "Minas Gerais",
+            3120.7691484908246
+        ],
+        [
+            "Roraima",
+            "Rio Grande do Sul",
+            3791.702725779238
+        ],
+        [
+            "Roraima",
+            "Pernambuco",
+            3103.051463194883
+        ],
+        [
+            "Roraima",
+            "Ceará",
+            2561.5167805979822
+        ],
+        [
+            "Roraima",
+            "Bahia",
+            3014.187439434373
+        ],
+        [
+            "Roraima",
+            "Paraná",
+            3370.5118342190412
+        ],
+        [
+            "Roraima",
+            "Pará",
+            1435.719677479651
+        ],
+        [
+            "Roraima",
+            "Goiás",
+            2506.1400537406716
+        ],
+        [
+            "Roraima",
+            "Amazonas",
+            662.1996758401623
+        ],
+        [
+            "Roraima",
+            "Espírito Santo",
+            3395.7279215594885
+        ],
+        [
+            "Roraima",
+            "Alagoas",
+            3090.0435021536196
+        ],
+        [
+            "Roraima",
+            "Rio Grande do Norte",
+            2981.9472429967727
+        ],
+        [
+            "Roraima",
+            "Maranhão",
+            1917.5294901699356
+        ],
+        [
+            "Roraima",
+            "Santa Catarina",
+            3622.802109130257
+        ],
+        [
+            "Roraima",
+            "Paraíba",
+            3068.1141754091595
+        ],
+        [
+            "Roraima",
+            "Piauí",
+            2173.5610541651395
+        ],
+        [
+            "Roraima",
+            "Mato Grosso",
+            2106.2584641384037
+        ],
+        [
+            "Roraima",
+            "Mato Grosso do Sul",
+            2670.715265895361
+        ],
+        [
+            "Roraima",
+            "Sergipe",
+            3019.7768028702394
+        ],
+        [
+            "Roraima",
+            "Amapá",
+            1113.0633592635054
+        ],
+        [
+            "Roraima",
+            "Rondônia",
+            1335.5440894706862
+        ],
+        [
+            "Roraima",
+            "Acre",
+            1626.6967733642027
+        ],
+        [
+            "Roraima",
+            "Tocantins",
+            1996.9016526925002
+        ]
+    ]
+}
