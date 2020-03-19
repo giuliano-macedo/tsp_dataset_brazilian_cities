@@ -2,7 +2,7 @@
 
 
 ## Results
-`states.csv` and `states_straigth_line.json`,`states_gmaps.json` contains the output of `src` scripts
+`states.csv` and `states_line.json`,`states_gmaps.json`,`states_merged.json` contains the output of `src` scripts
 
 * `states.csv` contains the latitude and longitude for each brazilian state capital
 * `states_line.json` contains the name of the states and the distance in km of all possible pairs
