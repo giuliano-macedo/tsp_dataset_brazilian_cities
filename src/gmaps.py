@@ -48,7 +48,7 @@ _query=(df[(df.country == "Brazil") & (df.capital=="admin")])
 
 estados=pd.DataFrame(data=zip(_query.admin_name,_query.lat,_query.lng),columns=("estado","lat","lng"))
 
-estados.to_csv("states.csv",index=False)
+estados.to_csv("states_coords.csv",index=False)
 
 nodes=list(estados.estado)
 edges=[]

@@ -2,15 +2,17 @@
 
 
 ## Results
-`states.csv` and `states_line.json`,`states_gmaps.json`,`states_merged.json` contains the output of `src` scripts
+`results` folder contains the files `states.csv` and `states_line.json`,`states_gmaps.json`,
+`states_merged.json` that are the output of `src` scripts
 
-* `states.csv` contains the latitude and longitude for each brazilian state capital
+* `states_coords.csv` contains the latitude and longitude for each brazilian state capital
 * `states_line.json` contains the name of the states and the distance in km of all possible pairs
 assuming a line conecting the cities
 * `states_gmaps.json` contains the name of the states and the distance in km of all possible pairs
 with the information from google regarding its distance, some combination results in NaN
 (all combinations to or from Acre and Amapá), due to non existing routes to the location.
 * `states_merged.json` substitutes `states_gmaps.json` Nan from `states_line.json` distances
+* the remaining .csv's are the json adjacency matrix counterpart
 
 ## Requirements
 * python >=3.7
@@ -37,9 +39,14 @@ to get `states_gmaps.json` use
 KEY=YOUR_KEY python3 gmaps.py
 ```
 
+follow [this tutorial](https://developers.google.com/maps/documentation/distance-matrix/start) to get the API key
+
 to get `states_merged.json` use
 ```bash
 python3 merge.py
 ```
 
-follow [this tutorial](https://developers.google.com/maps/documentation/distance-matrix/start) to get the API key
+to convert any json to an adjacency matrix in csv use `json2csv.py`
+```bash
+python3 json2csv.py [file]
+```
