@@ -19,7 +19,7 @@ table[:]=np.nan
 for city1,city2,dist in obj["edges"]:
 	table[nodes.index(city1),nodes.index(city2)]=dist
 for i in range(n):
-	table[0][0]=0
+	table[i][i]=0
 
 df=pd.DataFrame(table,columns=nodes)
 fname,_=os.path.splitext(args.file.name)
