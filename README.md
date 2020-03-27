@@ -5,11 +5,11 @@
 `results` folder contains the files `states.csv` and `states_line.json`,`states_gmaps.json`,
 `states_merged.json` that are the output of `src` scripts
 
-* `states_coords.csv` contains the latitude and longitude for each brazilian state capital
+* `states_coords.csv` contains the latitude and longitude for each Brazilian state capital
 * `states_line.json` contains the name of the states and the distance in km of all possible pairs
-assuming a line conecting the cities
+assuming a line connecting the cities
 * `states_gmaps.json` contains the name of the states and the distance in km of all possible pairs
-with the information from google regarding its distance, some combination results in NaN
+with the information from Google regarding its distance, some combination results in NaN
 (all combinations to or from Acre and Amapá), due to non existing routes to the location.
 * `states_merged.json` substitutes `states_gmaps.json` Nan from `states_line.json` distances
 * the remaining .csv's are the json adjacency matrix counterpart
